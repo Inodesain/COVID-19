@@ -1,0 +1,14 @@
+Source program of COVID-19 Historical Data Refinery, using Magic XPA Version 4.0 (an Application Development Tools from 
+Magic Software Enterprises). 
+
+Public Data Source from Johns Hopkins University after refined by Excel (need refined because of many data not standard, 
+ie. Country Code : Mainland China, China, Taiwan, Taiwan*, South Korea, "Korea, South", Palestine, West Bank and Gaza). 
+It will be standardize by this program to ISO 3166 Standard for better Geographic Visualization.
+
+Another difficulties is data not come daily on same day, it is need to refined to display latest data on Dashboard. 
+Also data from Cruise Ship need to separate column to avoid double counting.
+
+We also analyze relation with Weather Condition and Population Data of the hardest hit location.
+
+Hope this dataset will describe a global picture of what happened with "COVID-19 Pandemic" day to day and to assure our 
+preparedness for the next potential pandemic.
