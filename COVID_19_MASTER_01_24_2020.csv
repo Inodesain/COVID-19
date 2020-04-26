@@ -1,0 +1,36 @@
+FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRMED,DEATHS,RECOVERED,ACTIVE,COMBINED_KEY,GEOID,RECORD_KEY
+0,-,Hubei,China,2020-01-24, , ,549,24,31,0,"Hubei, China",CN,ChinaHubei-43854
+0,-,Guangdong,China,2020-01-24,,,53,,2,,"Guangdong, China",CN,ChinaGuangdong-43854
+0,-,Zhejiang,China,2020-01-24,,,43,,1,,"Zhejiang, China",CN,ChinaZhejiang-43854
+0,-,Beijing,China,2020-01-24,,,36,,1,,"Beijing, China",CN,ChinaBeijing-43854
+0,-,Chongqing,China,2020-01-24,,,27,,,,"Chongqing, China",CN,ChinaChongqing-43854
+0,-,Hunan,China,2020-01-24,,,24,,,,"Hunan, China",CN,ChinaHunan-43854
+0,-,Guangxi,China,2020-01-24,,,23,,,,"Guangxi, China",CN,ChinaGuangxi-43854
+0,-,Shanghai,China,2020-01-24,,,20,,1,,"Shanghai, China",CN,ChinaShanghai-43854
+0,-,Jiangxi,China,2020-01-24,,,18,,,,"Jiangxi, China",CN,ChinaJiangxi-43854
+0,-,Sichuan,China,2020-01-24,,,15,,,,"Sichuan, China",CN,ChinaSichuan-43854
+0,-,Shandong,China,2020-01-24,,,15,,,,"Shandong, China",CN,ChinaShandong-43854
+0,-,Anhui,China,2020-01-24,,,15,,,,"Anhui, China",CN,ChinaAnhui-43854
+0,-,Fujian,China,2020-01-24,,,10,,,,"Fujian, China",CN,ChinaFujian-43854
+0,-,Henan,China,2020-01-24,,,9,,,,"Henan, China",CN,ChinaHenan-43854
+0,-,Jiangsu,China,2020-01-24,,,9,,,,"Jiangsu, China",CN,ChinaJiangsu-43854
+0,-,Hainan,China,2020-01-24,,,8,,,,"Hainan, China",CN,ChinaHainan-43854
+0,-,Tianjin,China,2020-01-24,,,8,,,,"Tianjin, China",CN,ChinaTianjin-43854
+0,-,Yunnan,China,2020-01-24,,,5,,,,"Yunnan, China",CN,ChinaYunnan-43854
+0,-,Shaanxi,China,2020-01-24,,,5,,,,"Shaanxi, China",CN,ChinaShaanxi-43854
+0,-,Heilongjiang,China,2020-01-24,,,4,1,,,"Heilongjiang, China",CN,ChinaHeilongjiang-43854
+0,-,Liaoning,China,2020-01-24,,,4,,,,"Liaoning, China",CN,ChinaLiaoning-43854
+0,-,Guizhou,China,2020-01-24,,,3,,,,"Guizhou, China",CN,ChinaGuizhou-43854
+0,-,Jilin,China,2020-01-24,,,3,,,,"Jilin, China",CN,ChinaJilin-43854
+0,-,Taiwan,Taiwan,2020-01-24,,,3,,,,"Taiwan, Taiwan",TW,TaiwanTaiwan-43854
+0,-,Ningxia,China,2020-01-24,,,2,,,,"Ningxia, China",CN,ChinaNingxia-43854
+0,-,Hong Kong,Hong Kong,2020-01-24,,,2,,,,"Hong Kong, Hong Kong",HK,Hong KongHong Kong-43854
+0,-,Macau,Macau,2020-01-24,,,2,,,,"Macau, Macau",MO,MacauMacau-43854
+0,-,Hebei,China,2020-01-24,,,2,1,,,"Hebei, China",CN,ChinaHebei-43854
+0,-,Gansu,China,2020-01-24,,,2,,,,"Gansu, China",CN,ChinaGansu-43854
+0,-,Xinjiang,China,2020-01-24,,,2,,,,"Xinjiang, China",CN,ChinaXinjiang-43854
+0,-,Shanxi,China,2020-01-24,,,1,,,,"Shanxi, China",CN,ChinaShanxi-43854
+0,-,Inner Mongolia,China,2020-01-24,,,1,,,,"Inner Mongolia, China",CN,ChinaInner Mongolia-43854
+0,-,Qinghai,China,2020-01-24,,,,,,,"Qinghai, China",CN,ChinaQinghai-43854
+0,Seattle,Washington,US,2020-01-24,,,1,,,,"Seattle, Washington, US",US,USWashingtonSeattle43854
+0,Chicago,Illinois,US,2020-01-24,,,1,,,,"Chicago, Illinois, US",US,USIllinoisChicago43854
