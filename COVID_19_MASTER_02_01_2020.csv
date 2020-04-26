@@ -1,0 +1,68 @@
+FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRMED,DEATHS,RECOVERED,ACTIVE,COMBINED_KEY,GEOID,RECORD_KEY
+0,-,Hubei,China,2020-02-01,,,7153,249,168,,"Hubei, China",CN,ChinaHubei-43862.4951388889
+0,-,Zhejiang,China,2020-02-01,,,599,0,21,,"Zhejiang, China",CN,ChinaZhejiang-43862.4534722222
+0,-,Guangdong,China,2020-02-01,,,535,0,14,,"Guangdong, China",CN,ChinaGuangdong-43862.5993055556
+0,-,Henan,China,2020-02-01,,,422,2,3,,"Henan, China",CN,ChinaHenan-43862.0777777778
+0,-,Hunan,China,2020-02-01,,,389,0,8,,"Hunan, China",CN,ChinaHunan-43862.4604166667
+0,-,Anhui,China,2020-02-01,,,297,0,5,,"Anhui, China",CN,ChinaAnhui-43862.5645833333
+0,-,Jiangxi,China,2020-02-01,,,286,0,9,,"Jiangxi, China",CN,ChinaJiangxi-43862.0777777778
+0,-,Chongqing,China,2020-02-01,,,247,1,3,,"Chongqing, China",CN,ChinaChongqing-43862.3631944444
+0,-,Sichuan,China,2020-02-01,,,207,1,3,,"Sichuan, China",CN,ChinaSichuan-43862.0777777778
+0,-,Shandong,China,2020-02-01,,,206,0,3,,"Shandong, China",CN,ChinaShandong-43862.3270833333
+0,-,Jiangsu,China,2020-02-01,,,202,0,6,,"Jiangsu, China",CN,ChinaJiangsu-43862.5854166667
+0,-,Shanghai,China,2020-02-01,,,169,1,10,,"Shanghai, China",CN,ChinaShanghai-43862.2534722222
+0,-,Beijing,China,2020-02-01,,,168,1,9,,"Beijing, China",CN,ChinaBeijing-43862.3868055556
+0,-,Fujian,China,2020-02-01,,,144,0,0,,"Fujian, China",CN,ChinaFujian-43862.2340277778
+0,-,Shaanxi,China,2020-02-01,,,101,0,0,,"Shaanxi, China",CN,ChinaShaanxi-43862.2340277778
+0,-,Guangxi,China,2020-02-01,,,100,0,2,,"Guangxi, China",CN,ChinaGuangxi-43862.0777777778
+0,-,Hebei,China,2020-02-01,,,96,1,0,,"Hebei, China",CN,ChinaHebei-43862.0777777778
+0,-,Yunnan,China,2020-02-01,,,93,0,2,,"Yunnan, China",CN,ChinaYunnan-43862.6618055556
+0,-,Heilongjiang,China,2020-02-01,,,80,2,2,,"Heilongjiang, China",CN,ChinaHeilongjiang-43862.4395833333
+0,-,Liaoning,China,2020-02-01,,,64,0,1,,"Liaoning, China",CN,ChinaLiaoning-43862.6409722222
+0,-,Hainan,China,2020-02-01,,,62,1,1,,"Hainan, China",CN,ChinaHainan-43862.3631944444
+0,-,Shanxi,China,2020-02-01,,,47,0,1,,"Shanxi, China",CN,ChinaShanxi-43862.0777777778
+0,-,Tianjin,China,2020-02-01,,,41,0,0,,"Tianjin, China",CN,ChinaTianjin-43862.6548611111
+0,-,Gansu,China,2020-02-01,,,40,0,0,,"Gansu, China",CN,ChinaGansu-43862.6548611111
+0,-,Guizhou,China,2020-01-31,,,29,0,2,,"Guizhou, China",CN,ChinaGuizhou-43861.6388888889
+0,-,Ningxia,China,2020-02-01,,,26,0,0,,"Ningxia, China",CN,ChinaNingxia-43862.0923611111
+0,-,Inner Mongolia,China,2020-02-01,,,23,0,1,,"Inner Mongolia, China",CN,ChinaInner Mongolia-43862.2340277778
+0,-,-,Japan,2020-02-01,,,20,0,1,,Japan,JP,Japan-43862.7868055556
+0,-,-,Thailand,2020-01-31,,,19,0,5,,Thailand,TH,Thailand-43861.4423611111
+0,-,Xinjiang,China,2020-02-01,,,18,0,0,,"Xinjiang, China",CN,ChinaXinjiang-43862.2340277778
+0,-,Jilin,China,2020-02-01,,,17,0,1,,"Jilin, China",CN,ChinaJilin-43862.0777777778
+0,-,-,Singapore,2020-02-01,,,16,0,0,,Singapore,SG,Singapore-43862.2340277778
+0,-,Hong Kong,Hong Kong,2020-02-01,,,13,0,0,,"Hong Kong, Hong Kong",HK,Hong KongHong Kong-43862.2340277778
+0,-,-,South Korea,2020-02-01,,,12,0,0,,South Korea,KR,South Korea-43862.4465277778
+0,-,Taiwan,Taiwan,2020-01-31,,,10,0,0,,"Taiwan, Taiwan",TW,TaiwanTaiwan-43861.6388888889
+0,-,Qinghai,China,2020-02-01,,,9,0,0,,"Qinghai, China",JP,ChinaQinghai-43862.2340277778
+0,-,-,Malaysia,2020-01-31,,,8,0,0,,Malaysia,CN,Malaysia-43861.34375
+0,-,-,Germany,2020-02-01,,,8,0,0,,Germany,DE,Germany-43862.7729166667
+0,-,Macau,Macau,2020-01-31,,,7,0,0,,"Macau, Macau",MO,MacauMacau-43861.34375
+0,-,-,France,2020-02-01,,,6,0,0,,France,FR,France-43862.0777777778
+0,-,-,Vietnam,2020-02-01,,,6,0,1,,Vietnam,VN,Vietnam-43862.3180555556
+0,-,New South Wales,Australia,2020-02-01,,,4,0,2,,"New South Wales, Australia",AU,AustraliaNew South Wales-43862.7583333333
+0,-,Victoria,Australia,2020-02-01,,,4,0,0,,"Victoria, Australia",AU,AustraliaVictoria-43862.7583333333
+0,-,-,United Arab Emirates,2020-01-31,,,4,0,0,,United Arab Emirates,AE,United Arab Emirates-43861.34375
+0,-,Queensland,Australia,2020-02-01,,,3,0,0,,"Queensland, Australia",AU,AustraliaQueensland-43862.7583333333
+0,-,Ontario,Canada,2020-02-01,,,3,0,0,,"Ontario, Canada",CA,CanadaOntario-43862.7583333333
+0,-,-,Italy,2020-01-31,,,2,0,0,,Italy,IT,Italy-43861.34375
+0,-,-,Russia,2020-01-31,,,2,0,0,,Russia,RU,Russia-43861.6756944444
+0,-,-,UK,2020-02-01,,,2,0,0,,UK,UK,UK-43862.0777777778
+0,Chicago,Illinois,US,2020-02-01,,,2,0,0,,"Chicago, Illinois, US",US,USIllinoisChicago43862.8215277778
+0,-,South Australia,Australia,2020-02-01,,,1,0,0,,"South Australia, Australia",AU,AustraliaSouth Australia-43862.7583333333
+0,-,-,Cambodia,2020-01-31,,,1,0,0,,Cambodia,KH,Cambodia-43861.34375
+0,-,British Columbia,Canada,2020-02-01,,,1,0,0,,"British Columbia, Canada",CA,CanadaBritish Columbia-43862.7583333333
+0,-,-,Finland,2020-01-31,,,1,0,0,,Finland,FI,Finland-43861.34375
+0,-,-,India,2020-01-31,,,1,0,0,,India,IN,India-43861.34375
+0,-,Tibet,China,2020-02-01,,,1,0,0,,"Tibet, China",CN,ChinaTibet-43862.0777777778
+0,-,-,Nepal,2020-01-31,,,1,0,0,,Nepal,NP,Nepal-43861.34375
+0,-,-,Philippines,2020-02-01,,,1,0,0,,Philippines,PH,Philippines-43862.7381944444
+0,-,-,Spain,2020-02-01,,,1,0,0,,Spain,ES,Spain-43862.0923611111
+0,-,-,Sri Lanka,2020-01-31,,,1,0,0,,Sri Lanka,LK,Sri Lanka-43861.34375
+0,-,-,Sweden,2020-02-01,,,1,0,0,,Sweden,SE,Sweden-43862.0923611111
+0,Boston,Massachusetts,US,2020-02-01,,,1,0,0,,"Boston, Massachusetts, US",US,USMassachusettsBoston43862.8215277778
+0,Los Angeles,California,US,2020-02-01,,,1,0,0,,"Los Angeles, California, US",US,USCaliforniaLos Angeles43862.8284722222
+0,Orange,California,US,2020-02-01,,,1,0,0,,"Orange, California, US",US,USCaliforniaOrange43862.8284722222
+0,Santa Clara,California,US,2020-02-01,,,1,0,0,,"Santa Clara, California, US",US,USCaliforniaSanta Clara43862.8284722222
+0,Seattle,Washington,US,2020-02-01,,,1,0,0,,"Seattle, Washington, US",US,USWashingtonSeattle43862.8215277778
+0,Tempe,Arizona,US,2020-02-01,,,1,0,0,,"Tempe, Arizona, US",US,USArizonaTempe43862.8215277778

@@ -1,0 +1,71 @@
+FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRMED,DEATHS,RECOVERED,ACTIVE,COMBINED_KEY,GEOID,RECORD_KEY
+0,-,Hubei,China,2020-02-04T23:43:01,,,16678,479,522,,"Hubei, China",CN,ChinaHubei-2020-02-04T23:43:01
+0,-,Zhejiang,China,2020-02-04T13:03:07,,,829,0,62,,"Zhejiang, China",CN,ChinaZhejiang-2020-02-04T13:03:07
+0,-,Guangdong,China,2020-02-04T13:03:07,,,813,0,30,,"Guangdong, China",CN,ChinaGuangdong-2020-02-04T13:03:07
+0,-,Henan,China,2020-02-04T11:53:02,,,675,2,27,,"Henan, China",CN,ChinaHenan-2020-02-04T11:53:02
+0,-,Hunan,China,2020-02-04T14:03:03,,,593,0,31,,"Hunan, China",CN,ChinaHunan-2020-02-04T14:03:03
+0,-,Anhui,China,2020-02-04T05:33:01,,,480,0,20,,"Anhui, China",CN,ChinaAnhui-2020-02-04T05:33:01
+0,-,Jiangxi,China,2020-02-04T14:43:02,,,476,0,20,,"Jiangxi, China",CN,ChinaJiangxi-2020-02-04T14:43:02
+0,-,Chongqing,China,2020-02-04T23:43:01,,,366,2,9,,"Chongqing, China",CN,ChinaChongqing-2020-02-04T23:43:01
+0,-,Jiangsu,China,2020-02-04T11:53:02,,,308,0,12,,"Jiangsu, China",CN,ChinaJiangsu-2020-02-04T11:53:02
+0,-,Sichuan,China,2020-02-04T01:43:02,,,282,1,14,,"Sichuan, China",CN,ChinaSichuan-2020-02-04T01:43:02
+0,-,Shandong,China,2020-02-04T12:03:04,,,275,0,11,,"Shandong, China",CN,ChinaShandong-2020-02-04T12:03:04
+0,-,Beijing,China,2020-02-04T08:33:01,,,228,1,23,,"Beijing, China",CN,ChinaBeijing-2020-02-04T08:33:01
+0,-,Shanghai,China,2020-02-04T06:33:02,,,219,1,12,,"Shanghai, China",CN,ChinaShanghai-2020-02-04T06:33:02
+0,-,Fujian,China,2020-02-04T12:13:11,,,194,0,3,,"Fujian, China",CN,ChinaFujian-2020-02-04T12:13:11
+0,-,Heilongjiang,China,2020-02-04T07:43:01,,,155,2,4,,"Heilongjiang, China",CN,ChinaHeilongjiang-2020-02-04T07:43:01
+0,-,Shaanxi,China,2020-02-04T12:33:02,,,142,0,2,,"Shaanxi, China",CN,ChinaShaanxi-2020-02-04T12:33:02
+0,-,Guangxi,China,2020-02-04T05:53:01,,,139,0,10,,"Guangxi, China",CN,ChinaGuangxi-2020-02-04T05:53:01
+0,-,Hebei,China,2020-02-04T08:53:01,,,126,1,4,,"Hebei, China",CN,ChinaHebei-2020-02-04T08:53:01
+0,-,Yunnan,China,2020-02-04T23:23:02,,,122,0,5,,"Yunnan, China",CN,ChinaYunnan-2020-02-04T23:23:02
+0,-,Liaoning,China,2020-02-04T14:13:08,,,81,0,2,,"Liaoning, China",CN,ChinaLiaoning-2020-02-04T14:13:08
+0,-,Shanxi,China,2020-02-04T23:23:02,,,81,0,4,,"Shanxi, China",CN,ChinaShanxi-2020-02-04T23:23:02
+0,-,Hainan,China,2020-02-04T11:33:03,,,80,1,5,,"Hainan, China",CN,ChinaHainan-2020-02-04T11:33:03
+0,-,Tianjin,China,2020-02-04T13:33:02,,,67,0,2,,"Tianjin, China",CN,ChinaTianjin-2020-02-04T13:33:02
+0,-,Guizhou,China,2020-02-04T10:43:02,,,58,0,2,,"Guizhou, China",CN,ChinaGuizhou-2020-02-04T10:43:02
+0,-,Gansu,China,2020-02-04T15:43:02,,,57,0,4,,"Gansu, China",CN,ChinaGansu-2020-02-04T15:43:02
+0,-,Jilin,China,2020-02-04T00:23:05,,,42,0,1,,"Jilin, China",CN,ChinaJilin-2020-02-04T00:23:05
+0,-,Inner Mongolia,China,2020-02-04T03:03:07,,,35,0,1,,"Inner Mongolia, China",CN,ChinaInner Mongolia-2020-02-04T03:03:07
+0,-,Ningxia,China,2020-02-04T02:13:18,,,34,0,1,,"Ningxia, China",CN,ChinaNingxia-2020-02-04T02:13:18
+0,-,Xinjiang,China,2020-02-04T01:33:01,,,29,0,0,,"Xinjiang, China",CN,ChinaXinjiang-2020-02-04T01:33:01
+0,-,-,Thailand,2020-02-04T15:33:03,,,25,0,5,,Thailand,TH,Thailand--2020-02-04T15:33:03
+0,-,-,Singapore,2020-02-04T15:33:03,,,24,0,0,,Singapore,SG,Singapore--2020-02-04T15:33:03
+0,-,-,Japan,2020-02-04T16:43:03,,,22,0,1,,Japan,JP,Japan--2020-02-04T16:43:03
+0,-,Hong Kong,Hong Kong,2020-02-04T09:03:02,,,17,1,0,,"Hong Kong, Hong Kong",HK,Hong KongHong Kong-2020-02-04T09:03:02
+0,-,-,South Korea,2020-02-04T15:33:03,,,16,0,0,,South Korea,KR,South Korea--2020-02-04T15:33:03
+0,-,Qinghai,China,2020-02-04T01:33:01,,,15,0,0,,"Qinghai, China",CN,ChinaQinghai-2020-02-04T01:33:01
+0,-,-,Germany,2020-02-03T20:53:02,,,12,0,0,,Germany,DE,Germany--2020-02-03T20:53:02
+0,-,Taiwan,Taiwan,2020-02-04T14:53:02,,,11,0,0,,"Taiwan, Taiwan",TW,TaiwanTaiwan-2020-02-04T14:53:02
+0,-,Macau,Macau,2020-02-04T04:43:02,,,10,0,0,,"Macau, Macau",MO,MacauMacau-2020-02-04T04:43:02
+0,-,-,Malaysia,2020-02-04T07:33:02,,,10,0,0,,Malaysia,MY,Malaysia--2020-02-04T07:33:02
+0,-,-,Vietnam,2020-02-03T21:43:02,,,8,0,1,,Vietnam,VN,Vietnam--2020-02-03T21:43:02
+0,-,-,France,2020-02-01T01:52:40,,,6,0,0,,France,FR,France--2020-02-01T01:52:40
+0,-,-,United Arab Emirates,2020-02-02T05:43:01,,,5,0,0,,United Arab Emirates,AE,United Arab Emirates--2020-02-02T05:43:01
+0,-,New South Wales,Australia,2020-02-01T18:12:49,,,4,0,2,,"New South Wales, Australia",AU,AustraliaNew South Wales-2020-02-01T18:12:49
+0,-,Victoria,Australia,2020-02-01T18:12:49,,,4,0,0,,"Victoria, Australia",AU,AustraliaVictoria-2020-02-01T18:12:49
+0,-,Queensland,Australia,2020-02-04T16:53:03,,,3,0,0,,"Queensland, Australia",AU,AustraliaQueensland-2020-02-04T16:53:03
+0,-,-,India,2020-02-03T21:43:02,,,3,0,0,,India,IN,India--2020-02-03T21:43:02
+0,-,South Australia,Australia,2020-02-02T22:33:07,,,2,0,0,,"South Australia, Australia",AU,AustraliaSouth Australia-2020-02-02T22:33:07
+0,-,"Toronto, ON",Canada,2020-02-04T00:13:06,,,2,0,0,,"Toronto, ON, Canada",CA,"CanadaToronto, ON-2020-02-04T00:13:06"
+0,-,-,Italy,2020-01-31T08:15:53,,,2,0,0,,Italy,IT,Italy--2020-01-31T08:15:53
+0,-,-,Philippines,2020-02-02T03:33:07,,,2,1,0,,Philippines,PH,Philippines--2020-02-02T03:33:07
+0,-,-,Russia,2020-01-31T16:13:45,,,2,0,0,,Russia,RU,Russia--2020-01-31T16:13:45
+0,-,-,UK,2020-02-01T01:52:40,,,2,0,0,,UK,UK,UK--2020-02-01T01:52:40
+0,Chicago,"Chicago, IL",US,2020-02-01T19:43:03,,,2,0,0,,"Chicago, IL, US",US,"USChicago, ILChicago2020-02-01T19:43:03"
+0,San Benito,"San Benito, CA",US,2020-02-03T03:53:02,,,2,0,0,,"San Benito, CA, US",US,"USSan Benito, CASan Benito2020-02-03T03:53:02"
+0,Santa Clara,"Santa Clara, CA",US,2020-02-03T00:43:02,,,2,0,0,,"Santa Clara, CA, US",US,"USSanta Clara, CASanta Clara2020-02-03T00:43:02"
+0,-,-,Belgium,2020-02-04T15:43:02,,,1,0,0,,Belgium,BE,Belgium--2020-02-04T15:43:02
+0,-,-,Cambodia,2020-01-31T08:15:53,,,1,0,0,,Cambodia,KH,Cambodia--2020-01-31T08:15:53
+0,-,British Columbia,Canada,2020-02-01T18:12:49,,,1,0,0,,"British Columbia, Canada",CA,CanadaBritish Columbia-2020-02-01T18:12:49
+0,-,"London, ON",Canada,2020-02-04T00:03:11,,,1,0,0,,"London, ON, Canada",CA,"CanadaLondon, ON-2020-02-04T00:03:11"
+0,-,-,Finland,2020-01-31T08:15:53,,,1,0,0,,Finland,FI,Finland--2020-01-31T08:15:53
+0,-,Tibet,China,2020-02-01T01:52:40,,,1,0,0,,"Tibet, China",CN,ChinaTibet-2020-02-01T01:52:40
+0,-,-,Nepal,2020-01-31T08:15:53,,,1,0,0,,Nepal,NP,Nepal--2020-01-31T08:15:53
+0,-,-,Spain,2020-02-01T23:43:02,,,1,0,0,,Spain,ES,Spain--2020-02-01T23:43:02
+0,-,-,Sri Lanka,2020-01-31T08:15:53,,,1,0,0,,Sri Lanka,LK,Sri Lanka--2020-01-31T08:15:53
+0,-,-,Sweden,2020-02-01T02:13:26,,,1,0,0,,Sweden,SE,Sweden--2020-02-01T02:13:26
+0,Boston,Massachusetts,US,2020-02-01T19:43:03,,,1,0,0,,"Massachusetts, US",US,USMassachusettsBoston2020-02-01T19:43:03
+0,"Los Angeles, CA",California,US,2020-02-01T19:53:03,,,1,0,0,,"California, US",US,"USCaliforniaLos Angeles, CA2020-02-01T19:53:03"
+0,Orange,California,US,2020-02-01T19:53:03,,,1,0,0,,"California, US",US,USCaliforniaOrange2020-02-01T19:53:03
+0,Seattle,Washington,US,2020-02-01T19:43:03,,,1,0,0,,"Washington, US",US,USWashingtonSeattle2020-02-01T19:43:03
+0,Tempe,Arizona,US,2020-02-01T19:43:03,,,1,0,0,,"Arizona, US",US,USArizonaTempe2020-02-01T19:43:03
