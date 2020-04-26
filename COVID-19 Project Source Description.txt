@@ -12,3 +12,7 @@ We also analyze relation with Weather Condition and Population Data of the harde
 
 Hope this dataset will describe a global picture of what happened with "COVID-19 Pandemic" day to day and to assure our 
 preparedness for the next potential pandemic.
+
+Additionally, we collect unstructured historical data from www.worldometer.info and uploaded to IBM DB2 on Cloud.
+Using this RDBMS we can query data efficiently, we can monitored whats going on around the world day by day and drilled down
+to Country, Province/State and County (for US Only).
