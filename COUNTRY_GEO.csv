@@ -1,18 +1,18 @@
 COUNTRY_REGION,GEOID,PROVINCE_STATE
 Afghanistan                                       ,AF        ,-                                                 
-Finland                                           ,AX        ,Aland Islands                                     
 Albania                                           ,AL        ,-                                                 
 Algeria                                           ,DZ        ,-                                                 
-US                                                ,AS        ,American Samoa                                    
 Andorra                                           ,AD        ,-                                                 
 Angola                                            ,AO        ,-                                                 
-United Kingdom                                    ,AI        ,Anguilla                                          
 Antartica                                         ,AQ        ,-                                                 
 Antigua and Barbuda                               ,AG        ,-                                                 
 Argentina                                         ,AR        ,-                                                 
 Armenia                                           ,AM        ,-                                                 
-Netherlands                                       ,AW        ,Aruba                                             
 Australia                                         ,AU        ,-                                                 
+Australia                                         ,CX        ,Christmas Island                                  
+Australia                                         ,CC        ,Cocos (Keeling) Islands                           
+Australia                                         ,HM        ,Heard Island and McDonald Islands                 
+Australis                                         ,NF        ,Norfolk Island                                    
 Austria                                           ,AT        ,-                                                 
 Azerbaijan                                        ,AZ        ,-                                                 
 Bahamas                                           ,BS        ,-                                                 
@@ -23,15 +23,11 @@ Belarus                                           ,BY        ,-
 Belgium                                           ,BE        ,-                                                 
 Belize                                            ,BZ        ,-                                                 
 Benin                                             ,BJ        ,-                                                 
-United Kingdom                                    ,BM        ,Bermuda                                           
 Bhutan                                            ,BT        ,-                                                 
 Bolivia                                           ,BO        ,-                                                 
-Netherlands                                       ,BQ        ,"Bonaire, Saint Eustasius and Saba                 "
 Bosnia and Herzegovina                            ,BA        ,-                                                 
 Botswana                                          ,BW        ,-                                                 
-Norway                                            ,BV        ,Bouvet Island                                     
 Brazil                                            ,BR        ,-                                                 
-United Kingdom                                    ,IO        ,British Indian Ocean Territory                    
 Brunei                                            ,BN        ,-                                                 
 Bulgaria                                          ,BG        ,-                                                 
 Burkina Faso                                      ,BF        ,-                                                 
@@ -45,8 +41,39 @@ Central African Republic                          ,CF        ,-
 Chad                                              ,TD        ,-                                                 
 Chile                                             ,CL        ,-                                                 
 China                                             ,CN        ,-                                                 
-Australia                                         ,CX        ,Christmas Island                                  
-Australia                                         ,CC        ,Cocos (Keeling) Islands                           
+China                                             ,CN-AH     ,Anhui                                             
+China                                             ,CN-BJ     ,Beijing                                           
+China                                             ,CN-CQ     ,Chongqing                                         
+China                                             ,CN-FJ     ,Fujian                                            
+China                                             ,CN-GS     ,Gansu                                             
+China                                             ,CN-GD     ,Guangdong                                         
+China                                             ,CN-GX     ,Guangxi                                           
+China                                             ,CN-GZ     ,Guizhou                                           
+China                                             ,CN-HI     ,Hainan                                            
+China                                             ,CN-HE     ,Hebei                                             
+China                                             ,CN-HL     ,Heilongjiang                                      
+China                                             ,CN-HA     ,Henan                                             
+China                                             ,HK        ,Hong Kong                                         
+China                                             ,CN-HB     ,Hubei                                             
+China                                             ,CN-HN     ,Hunan                                             
+China                                             ,CN-JS     ,Jiangsu                                           
+China                                             ,CN-JX     ,Jiangxi                                           
+China                                             ,CN-JL     ,Jilin                                             
+China                                             ,CN-LN     ,Liaoning                                          
+China                                             ,MO        ,Macau                                             
+China                                             ,CN-NM     ,Nei Mongol                                        
+China                                             ,CN-NX     ,Ningxia                                           
+China                                             ,CN-QH     ,Qinghai                                           
+China                                             ,CN-SN     ,Shaanxi                                           
+China                                             ,CN-SD     ,Shandong                                          
+China                                             ,CN-SH     ,Shanghai                                          
+China                                             ,CN-SX     ,Shanxi                                            
+China                                             ,CN-SC     ,Sichuan                                           
+China                                             ,CN-TJ     ,Tianjin                                           
+China                                             ,CN-XJ     ,Xinjiang                                          
+China                                             ,CN-XZ     ,Xizang                                            
+China                                             ,CN-YN     ,Yunnan                                            
+China                                             ,CN-ZJ     ,Zhejiang                                          
 Colombia                                          ,CO        ,-                                                 
 Comoros                                           ,KM        ,-                                                 
 Congo (Brazzaville)                               ,CG        ,-                                                 
@@ -55,11 +82,15 @@ Cook Islands                                      ,CK        ,-
 Costa Rica                                        ,CR        ,-                                                 
 Cote d'Ivoire                                     ,CI        ,-                                                 
 Croatia                                           ,HR        ,-                                                 
+Cruise Ship                                       ,-         ,Diamond Princess                                  
 Cuba                                              ,CU        ,-                                                 
-Netherlands                                       ,CW        ,Curacao                                           
 Cyprus                                            ,CY        ,-                                                 
 Czechia                                           ,CZ        ,-                                                 
 Denmark                                           ,DK        ,-                                                 
+Denmark                                           ,FO        ,Faroe Islands                                     
+Denmark                                           ,GL        ,Greenland                                         
+Diamond Princess                                  ,-         ,-                                                 
+Diamond Princess                                  ,-         ,Cruise Ship                                       
 Djibouti                                          ,DJ        ,-                                                 
 Dominica                                          ,DM        ,-                                                 
 Dominican Republic                                ,DO        ,-                                                 
@@ -71,39 +102,76 @@ Eritrea                                           ,ER        ,-
 Estonia                                           ,EE        ,-                                                 
 Eswatini                                          ,SZ        ,-                                                 
 Ethiopia                                          ,ET        ,-                                                 
-United Kingdom                                    ,FK        ,Falkland Islands (Malvinas)                       
-Denmark                                           ,FO        ,Faroe Islands                                     
 Fiji                                              ,FJ        ,-                                                 
 Finland                                           ,FI        ,-                                                 
+Finland                                           ,AX        ,Aland Islands                                     
+France                                            ,FR        ,-                                                 
 France                                            ,FR        ,France                                            
 France                                            ,GF        ,French Guiana                                     
 France                                            ,PF        ,French Polynesia                                  
 France                                            ,TF        ,French Southern Territories                       
+France                                            ,GP        ,Guadeloupe                                        
+France                                            ,MQ        ,Martinique                                        
+France                                            ,YT        ,Mayotte                                           
+France                                            ,NC        ,New Caledonia                                     
+France                                            ,RE        ,Reunion                                           
+France                                            ,BL        ,Saint Barthelemy                                  
+France                                            ,MF        ,Saint Martin                                      
+France                                            ,PM        ,Saint Pierre and Miquelon                         
+France                                            ,MF        ,St Martin                                         
+France                                            ,WF        ,Wallis and Futuna                                 
 Gabon                                             ,GA        ,-                                                 
 Gambia                                            ,GM        ,-                                                 
 Georgia                                           ,GE        ,-                                                 
 Germany                                           ,DE        ,-                                                 
 Ghana                                             ,GH        ,-                                                 
-United Kingdom                                    ,GI        ,Gibraltar                                         
 Greece                                            ,GR        ,-                                                 
-Denmark                                           ,GL        ,Greenland                                         
 Grenada                                           ,GD        ,-                                                 
-France                                            ,GP        ,Guadeloupe                                        
-US                                                ,GU        ,Guam                                              
 Guatemala                                         ,GT        ,-                                                 
-United Kingdom                                    ,GG        ,Guernsey                                          
 Guinea                                            ,GN        ,-                                                 
 Guinea-Bissau                                     ,GW        ,-                                                 
 Guyana                                            ,GY        ,-                                                 
 Haiti                                             ,HT        ,-                                                 
-Australia                                         ,HM        ,Heard Island and McDonald Islands                 
 Holy See                                          ,VA        ,-                                                 
 Honduras                                          ,HN        ,-                                                 
-China                                             ,HK        ,Hong Kong                                         
 Hungary                                           ,HU        ,-                                                 
 Iceland                                           ,IS        ,-                                                 
 India                                             ,IN        ,-                                                 
 Indonesia                                         ,ID        ,-                                                 
+Indonesia                                         ,ID-AC     ,Aceh                                              
+Indonesia                                         ,ID-BA     ,Bali                                              
+Indonesia                                         ,ID-BT     ,Banten                                            
+Indonesia                                         ,ID-BE     ,Bengkulu                                          
+Indonesia                                         ,ID-GO     ,Gorontalo                                         
+Indonesia                                         ,ID-JK     ,Jakarta                                           
+Indonesia                                         ,ID-JA     ,Jambi                                             
+Indonesia                                         ,ID-JB     ,Jawa Barat                                        
+Indonesia                                         ,ID-JT     ,Jawa Tengah                                       
+Indonesia                                         ,ID-JI     ,Jawa Timur                                        
+Indonesia                                         ,ID-KB     ,Kalimantan Barat                                  
+Indonesia                                         ,ID-KS     ,Kalimantan Selatan                                
+Indonesia                                         ,ID-KT     ,Kalimantan Tengah                                 
+Indonesia                                         ,ID-KI     ,Kalimantan Timur                                  
+Indonesia                                         ,ID-KU     ,Kalimantan Utara                                  
+Indonesia                                         ,ID-BB     ,Kepulauan Bangka Belitung                         
+Indonesia                                         ,ID-KR     ,Kepulauan Riau                                    
+Indonesia                                         ,ID-LA     ,Lampung                                           
+Indonesia                                         ,ID-MA     ,Maluku                                            
+Indonesia                                         ,ID-MU     ,Maluku Utara                                      
+Indonesia                                         ,ID-NB     ,Nusa Tenggara Barat                               
+Indonesia                                         ,ID-NT     ,Nusa Tenggara Timur                               
+Indonesia                                         ,ID-PA     ,Papua                                             
+Indonesia                                         ,ID-PB     ,Papua Barat                                       
+Indonesia                                         ,ID-RI     ,Riau                                              
+Indonesia                                         ,ID-SR     ,Sulawesi Barat                                    
+Indonesia                                         ,ID-SN     ,Sulawesi Selatan                                  
+Indonesia                                         ,ID-ST     ,Sulawesi Tengah                                   
+Indonesia                                         ,ID-SG     ,Sulawesi Tenggara                                 
+Indonesia                                         ,ID-SA     ,Sulawesi Utara                                    
+Indonesia                                         ,ID-SB     ,Sumatera Barat                                    
+Indonesia                                         ,ID-SS     ,Sumatera Selatan                                  
+Indonesia                                         ,ID-SU     ,Sumatera Utara                                    
+Indonesia                                         ,ID-YU     ,Yogyakarta                                        
 Iran                                              ,IR        ,-                                                 
 Iraq                                              ,IQ        ,-                                                 
 Ireland                                           ,IE        ,-                                                 
@@ -130,7 +198,7 @@ Libya                                             ,LY        ,-
 Liechtenstein                                     ,LI        ,-                                                 
 Lithuania                                         ,LT        ,-                                                 
 Luxembourg                                        ,LU        ,-                                                 
-China                                             ,MO        ,Macau                                             
+MS Zaandam                                        ,-         ,-                                                 
 Madagascar                                        ,MG        ,-                                                 
 Mainland China                                    ,CN        ,-                                                 
 Malawi                                            ,MW        ,-                                                 
@@ -138,11 +206,8 @@ Malaysia                                          ,MY        ,-
 Maldives                                          ,MV        ,-                                                 
 Mali                                              ,ML        ,-                                                 
 Malta                                             ,MT        ,-                                                 
-US                                                ,MH        ,Marshall Islands                                  
-France                                            ,MQ        ,Martinique                                        
 Mauritania                                        ,MR        ,-                                                 
 Mauritius                                         ,MU        ,-                                                 
-France                                            ,YT        ,Mayotte                                           
 Mexico                                            ,MX        ,-                                                 
 Micronesia                                        ,FM        ,-                                                 
 Moldova                                           ,MD        ,-                                                 
@@ -155,38 +220,36 @@ Namibia                                           ,NA        ,-
 Nauru                                             ,NR        ,-                                                 
 Nepal                                             ,NP        ,-                                                 
 Netherlands                                       ,NL        ,-                                                 
-France                                            ,NC        ,New Caledonia                                     
+Netherlands                                       ,AW        ,Aruba                                             
+Netherlands                                       ,BQ        ,"Bonaire, Saint Eustasius and Saba                 "
+Netherlands                                       ,CW        ,Curacao                                           
+Netherlands                                       ,SX        ,Sint Maarten                                      
 New Zealand                                       ,NZ        ,-                                                 
 Nicaragua                                         ,NI        ,-                                                 
 Niger                                             ,NE        ,-                                                 
 Nigeria                                           ,NG        ,-                                                 
 Niue                                              ,NU        ,-                                                 
-Australis                                         ,NF        ,Norfolk Island                                    
 North Macedonia                                   ,MK        ,-                                                 
-US                                                ,MP        ,Northern Mariana Islands                          
 Norway                                            ,NO        ,-                                                 
+Norway                                            ,BV        ,Bouvet Island                                     
+Norway                                            ,SJ        ,Svalbard and Jan Mayen                            
 Oman                                              ,OM        ,-                                                 
 Pakistan                                          ,PK        ,-                                                 
+Palestine                                         ,PS        ,-                                                 
+Palestine                                         ,PS        ,West Bank and Gaza                                
 Panama                                            ,PA        ,-                                                 
 Papua New Guinea                                  ,PG        ,-                                                 
 Paraguay                                          ,PY        ,-                                                 
 Peru                                              ,PE        ,-                                                 
 Philippines                                       ,PH        ,-                                                 
-United Kingdom                                    ,PN        ,Pitcairn                                          
 Poland                                            ,PL        ,-                                                 
 Portugal                                          ,PT        ,-                                                 
-US                                                ,PR        ,Puerto Rico                                       
 Qatar                                             ,QA        ,-                                                 
-France                                            ,RE        ,Reunion                                           
 Romania                                           ,RO        ,-                                                 
 Russia                                            ,RU        ,-                                                 
 Rwanda                                            ,RW        ,-                                                 
-France                                            ,BL        ,Saint Barthelemy                                  
-United Kingdom                                    ,SH        ,"Saint Helena, Ascension and Tristan da Cunha      "
 Saint Kitts and Nevis                             ,KN        ,-                                                 
 Saint Lucia                                       ,LC        ,-                                                 
-France                                            ,MF        ,Saint Martin                                      
-France                                            ,PM        ,Saint Pierre and Miquelon                         
 Saint Vincent and the Grenadines                  ,VC        ,-                                                 
 Samoa                                             ,WS        ,-                                                 
 San Marino                                        ,SM        ,-                                                 
@@ -197,20 +260,17 @@ Serbia                                            ,RS        ,-
 Seychelles                                        ,SC        ,-                                                 
 Sierra Leone                                      ,SL        ,-                                                 
 Singapore                                         ,SG        ,-                                                 
-Netherlands                                       ,SX        ,Sint Maarten                                      
 Slovakia                                          ,SK        ,-                                                 
 Slovenia                                          ,SI        ,-                                                 
 Solomon Islands                                   ,SB        ,-                                                 
 Somalia                                           ,SO        ,-                                                 
 South Africa                                      ,ZA        ,-                                                 
-United Kingdom                                    ,GS        ,South Georgia and the South Sandwich Islands      
 South Korea                                       ,KR        ,-                                                 
 South Sudan                                       ,SS        ,-                                                 
 Spain                                             ,ES        ,-                                                 
 Sri Lanka                                         ,LK        ,-                                                 
 Sudan                                             ,SD        ,-                                                 
 Suriname                                          ,SR        ,-                                                 
-Norway                                            ,SJ        ,Svalbard and Jan Mayen                            
 Sweden                                            ,SE        ,-                                                 
 Switzerland                                       ,CH        ,-                                                 
 Syria                                             ,SY        ,-                                                 
@@ -224,39 +284,95 @@ Togo                                              ,TG        ,-
 Trinidad and Tobago                               ,TT        ,-                                                 
 Tunisia                                           ,TN        ,-                                                 
 Turkey                                            ,TR        ,-                                                 
-United Kingdom                                    ,TC        ,Turks and Caicos Islands                          
 Tuvalu                                            ,TV        ,-                                                 
 US                                                ,US        ,-                                                 
+US                                                ,US-AL     ,Alabama                                           
+US                                                ,US-AK     ,Alaska                                            
+US                                                ,AS        ,American Samoa                                    
+US                                                ,US-AZ     ,Arizona                                           
+US                                                ,US-CA     ,California                                        
+US                                                ,US-CO     ,Colorado                                          
+US                                                ,US-CT     ,Connecticut                                       
+US                                                ,US-DE     ,Delaware                                          
+US                                                ,US        ,Diamond Express                                   
+US                                                ,US-DC     ,District of Columbia                              
+US                                                ,US-FL     ,Florida                                           
+US                                                ,US-GA     ,Georgia                                           
+US                                                ,US        ,Grand Princess                                    
+US                                                ,GU        ,Guam                                              
+US                                                ,US-HI     ,Hawaii                                            
+US                                                ,US-ID     ,Idaho                                             
+US                                                ,US-IL     ,Illinois                                          
+US                                                ,US-IN     ,Indiana                                           
+US                                                ,US-IA     ,Iowa                                              
+US                                                ,US-KS     ,Kansas                                            
+US                                                ,US-KY     ,Kentucky                                          
+US                                                ,US-LA     ,Louisiana                                         
+US                                                ,US-ME     ,Maine                                             
+US                                                ,MH        ,Marshall Islands                                  
+US                                                ,US-MD     ,Maryland                                          
+US                                                ,US-MA     ,Massachusetts                                     
+US                                                ,US-MI     ,Michigan                                          
+US                                                ,US-MN     ,Minnesota                                         
+US                                                ,US-MS     ,Mississippi                                       
+US                                                ,US-MO     ,Missouri                                          
+US                                                ,US-MT     ,Montana                                           
+US                                                ,US-NE     ,Nebraska                                          
+US                                                ,US-NV     ,Nevada                                            
+US                                                ,US-NH     ,New Hampshire                                     
+US                                                ,US-NJ     ,New Jersey                                        
+US                                                ,US-NM     ,New Mexico                                        
+US                                                ,US-NY     ,New York                                          
+US                                                ,US-NC     ,North Carolina                                    
+US                                                ,US-ND     ,North Dakota                                      
+US                                                ,MP        ,Northern Mariana Islands                          
+US                                                ,US-OH     ,Ohio                                              
+US                                                ,US-OK     ,Oklahoma                                          
+US                                                ,US-OR     ,Oregon                                            
+US                                                ,US-PA     ,Pennsylvania                                      
+US                                                ,PR        ,Puerto Rico                                       
+US                                                ,US-RI     ,Rhode Island                                      
+US                                                ,US-SC     ,South Carolina                                    
+US                                                ,US-SD     ,South Dakota                                      
+US                                                ,US-TN     ,Tennessee                                         
+US                                                ,US-TX     ,Texas                                             
 US                                                ,UM        ,US Minor Outlying Islands                         
+US                                                ,US-UT     ,Utah                                              
+US                                                ,US-VT     ,Vermont                                           
+US                                                ,VI        ,Virgin Islands                                    
+US                                                ,US-VA     ,Virginia                                          
+US                                                ,US-WA     ,Washington                                        
+US                                                ,US-WV     ,West Virginia                                     
+US                                                ,US-WI     ,Wisconsin                                         
+US                                                ,US-WY     ,Wyoming                                           
 Uganda                                            ,UG        ,-                                                 
 Ukraine                                           ,UA        ,-                                                 
 United Arab Emirates                              ,AE        ,-                                                 
+United Kingdom                                    ,GB        ,-                                                 
+United Kingdom                                    ,AI        ,Anguilla                                          
+United Kingdom                                    ,BM        ,Bermuda                                           
+United Kingdom                                    ,IO        ,British Indian Ocean Territory                    
+United Kingdom                                    ,VG        ,British Virgin Islands                            
+United Kingdom                                    ,GB        ,Cayman Islands                                    
+United Kingdom                                    ,GB        ,Channel Islands                                   
+United Kingdom                                    ,FK        ,Falkland Islands (Malvinas)                       
+United Kingdom                                    ,GI        ,Gibraltar                                         
+United Kingdom                                    ,GG        ,Guernsey                                          
+United Kingdom                                    ,GB        ,Isle of Man                                       
+United Kingdom                                    ,GB        ,Montserrat                                        
+United Kingdom                                    ,PN        ,Pitcairn                                          
+United Kingdom                                    ,SH        ,"Saint Helena, Ascension and Tristan da Cunha      "
+United Kingdom                                    ,GS        ,South Georgia and the South Sandwich Islands      
+United Kingdom                                    ,TC        ,Turks and Caicos Islands                          
 United Kingdom                                    ,GB        ,UK                                                
+United Kingdom                                    ,GB        ,United Kingdom                                    
 Uruguay                                           ,UY        ,-                                                 
 Uzbekistan                                        ,UZ        ,-                                                 
 Vanuatu                                           ,VU        ,-                                                 
 Venezuela                                         ,VE        ,-                                                 
+Viet Nam                                          ,VN        ,-                                                 
 Vietnam                                           ,VN        ,-                                                 
-United Kingdom                                    ,VG        ,British Virgin Islands                            
-US                                                ,VI        ,Virgin Islands                                    
-France                                            ,WF        ,Wallis and Futuna                                 
-Palestine                                         ,PS        ,West Bank and Gaza                                
 Western Sahara                                    ,EH        ,-                                                 
 Yemen                                             ,YE        ,-                                                 
 Zambia                                            ,ZM        ,-                                                 
 Zimbabwe                                          ,ZW        ,-                                                 
-United Kingdom                                    ,GB        ,Cayman Islands                                    
-United Kingdom                                    ,GB        ,Channel Islands                                   
-United Kingdom                                    ,GB        ,Isle of Man                                       
-United Kingdom                                    ,GB        ,Montserrat                                        
-United Kingdom                                    ,GB        ,-                                                 
-US                                                ,US        ,Diamond Express                                   
-US                                                ,US        ,Grand Princess                                    
-Palestine                                         ,PS        ,-                                                 
-France                                            ,FR        ,-                                                 
-Diamond Princess                                  ,-         ,-                                                 
-France                                            ,MF        ,St Martin                                         
-MS Zaandam                                        ,-         ,-                                                 
-Diamond Princess                                  ,-         ,Cruise Ship                                       
-Cruise Ship                                       ,-         ,Diamond Princess                                  
-Viet Nam                                          ,VN        ,-                                                 
