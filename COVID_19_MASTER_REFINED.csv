@@ -92,7 +92,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,From Diamond Princess,Australia,2020-03-03,,,,0,0,,"From Diamond Princess, Australia",AU,AustraliaFrom Diamond Princess-20200303,0,0,0,0,0,0,,8,0,,,
 0,-,From Diamond Princess,Australia,2020-03-04,,,,0,0,,"From Diamond Princess, Australia",AU,AustraliaFrom Diamond Princess-20200304,0,0,0,0,0,0,,8,0,,,
 0,-,From Diamond Princess,Australia,2020-03-05,,,0,0,0,,"From Diamond Princess, Australia",AU,AustraliaFrom Diamond Princess-20200305,,,,,,,,,8,0,0,0
-0,-,From Diamond Princess,Australia,2020-03-12,,,,,,,"From Diamond Princess, Australia",AU,AustraliaFrom Diamond Princess-20200312,,,,,,,,,,0,0,0
+0,-,From Diamond Princess,Australia,2020-03-12,,,0,0,0,0,"From Diamond Princess, Australia",AU,AustraliaFrom Diamond Princess-20200312,,,,,,,,,,0,0,0
 0,-,New South Wales,Australia,2020-01-25,,,4,0,0,0,"New South Wales, Australia",AU,AustraliaNew South Wales-20200125,,,,,,,,,,0,0,0
 0,-,New South Wales,Australia,2020-01-26,,,4,0,0,0,"New South Wales, Australia",AU,AustraliaNew South Wales-20200126,,,,,,,,0,0,0,0,0
 0,-,New South Wales,Australia,2020-01-27,,,4,0,0,0,"New South Wales, Australia",AU,AustraliaNew South Wales-20200127,,,,,,,,,,0,0,0
@@ -160,7 +160,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Queensland,Australia,2020-02-04,,,3,0,0,,"Queensland, Australia",AU,AustraliaQueensland-20200204,,,,,,,,,,1,0,0
 0,-,Queensland,Australia,2020-02-05,,,3,0,0,0,"Queensland, Australia",AU,AustraliaQueensland-20200205,,,,,,,,0,0,,,
 0,-,Queensland,Australia,2020-02-06,,,4,0,0,,"Queensland, Australia",AU,AustraliaQueensland-20200206,,,,,,,,,,1,0,0
-0,-,Queensland,Australia,2020-02-07,,,5,0,0,,United Arab Emirates,AU,AustraliaQueensland-20200207,,,,,,,,,,1,0,0
+0,-,Queensland,Australia,2020-02-07,,,5,0,0,,"Queensland, Australia",AU,AustraliaQueensland-20200207,,,,,,,,,,1,0,0
 0,-,Queensland,Australia,2020-02-08,,,5,0,0,,"Queensland, Australia",AU,AustraliaQueensland-20200208,,,,,,,,0,0,,,
 0,-,Queensland,Australia,2020-02-09,,,5,0,0,,"Queensland, Australia",AU,AustraliaQueensland-20200209,,,,,,,,,,0,0,0
 0,-,Queensland,Australia,2020-02-10,,,5,0,0,0,"Queensland, Australia",AU,AustraliaQueensland-20200210,,,,,,,,0,0,,,
@@ -620,7 +620,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,London,Ontario,Canada,2020-02-10,,,1,0,0,0,"London, Ontario, Canada",CA,CanadaOntarioLondon20200210,,,,,,,,0,0,,,
 0,London,Ontario,Canada,2020-02-11,,,1,0,0,,"London, Ontario, Canada",CA,CanadaOntarioLondon20200211,,,,,,,,0,0,,,
 0,London,Ontario,Canada,2020-02-12,42,-81,1,0,1,,"London, Ontario, Canada",CA,CanadaOntarioLondon20200212,,,,,,,,,,0,0,1
-0,London,Ontario,Canada,2020-02-13,42,-81,1,0,1,,"Ontario, Canada",CA,CanadaOntarioLondon20200213,,,,,,,,0,0,,,
+0,London,Ontario,Canada,2020-02-13,42,-81,1,0,1,,"London, Ontario, Canada",CA,CanadaOntarioLondon20200213,,,,,,,,0,0,,,
 0,London,Ontario,Canada,2020-02-14,,,1,0,1,,"London, Ontario, Canada",CA,CanadaOntarioLondon20200214,,,,,,,,0,0,,,
 0,London,Ontario,Canada,2020-02-15,,,1,0,1,0,"London, Ontario, Canada",CA,CanadaOntarioLondon20200215,,,,,,,,0,0,,,
 0,London,Ontario,Canada,2020-02-16,,,1,0,1,,"London, Ontario, Canada",CA,CanadaOntarioLondon20200216,,,,,,,,0,0,,,
@@ -645,7 +645,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,London,Ontario,Canada,2020-03-06,,,1,0,1,,"London, Ontario, Canada",CA,CanadaOntarioLondon20200306,,,,,,,,,,0,0,0
 0,London,Ontario,Canada,2020-03-07,43,-89,1,0,1,,"London, Ontario, Canada",CA,CanadaOntarioLondon20200307,,,,,,,,,,0,0,0
 0,London,Ontario,Canada,2020-03-08,43,-89,1,0,1,,"London, Ontario, Canada",CA,CanadaOntarioLondon20200308,,,,,,,,,,0,0,0
-0,London,Ontario,Canada,2020-03-09,43,-89,0,0,0,,"London, Ontario, Canada",CA,CanadaOntarioLondon20200309,,,,,,,,,,0,0,0
+0,London,Ontario,Canada,2020-03-09,43,-89,0,0,0,0,"London, Ontario, Canada",CA,CanadaOntarioLondon20200309,,,,,,,,,,0,0,0
 0,Toronto,Ontario,Canada,2020-01-26,,,1,0,0,0,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200126,,,,,,,,,,0,0,0
 0,Toronto,Ontario,Canada,2020-01-27,,,1,0,0,0,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200127,,,,,,,,,,0,0,0
 0,Toronto,Ontario,Canada,2020-01-28,,,1,0,0,0,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200128,,,,,,,,0,0,0,0,0
@@ -655,7 +655,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,Toronto,Ontario,Canada,2020-02-01,,,2,,,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200201,,,,,,,,0,0,0,0,0
 0,Toronto,Ontario,Canada,2020-02-02,,,2,0,0,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200202,,,,,,,,0,0,0,0,0
 0,Toronto,Ontario,Canada,2020-02-03,,,2,0,0,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200203,,,,,,,,0,0,0,0,0
-0,Toronto,Ontario,Canada,2020-02-04,,,2,0,0,,"Ontario, Canada",CA,CanadaOntarioToronto20200204,,,,,,,,,,0,0,0
+0,Toronto,Ontario,Canada,2020-02-04,,,2,0,0,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200204,,,,,,,,,,0,0,0
 0,Toronto,Ontario,Canada,2020-02-05,,,2,0,0,0,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200205,,,,,,,,0,0,,,
 0,Toronto,Ontario,Canada,2020-02-06,,,2,0,0,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200206,,,,,,,,0,0,,,
 0,Toronto,Ontario,Canada,2020-02-07,,,2,0,0,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200207,,,,,,,,0,0,,,
@@ -684,12 +684,12 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,Toronto,Ontario,Canada,2020-03-01,43,-79,14,0,2,0,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200301,0,0,0,0,0,0,,,,4,0,0
 0,Toronto,Ontario,Canada,2020-03-02,43,-79,14,0,2,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200302,0,0,0,0,0,0,,0,0,,,
 0,Toronto,Ontario,Canada,2020-03-03,43,-79,19,0,2,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200303,0,0,0,0,0,0,,,,5,0,0
-0,Toronto,Ontario,Canada,2020-03-04,43,-79,19,0,2,,"Ontario, Canada",CA,CanadaOntarioToronto20200304,0,0,0,0,0,0,,0,0,,,
+0,Toronto,Ontario,Canada,2020-03-04,43,-79,19,0,2,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200304,0,0,0,0,0,0,,0,0,,,
 0,Toronto,Ontario,Canada,2020-03-05,43,-79,21,0,2,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200305,,,,,,,,,,2,0,0
 0,Toronto,Ontario,Canada,2020-03-06,43,-79,24,0,2,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200306,,,,,,,,,,3,0,0
 0,Toronto,Ontario,Canada,2020-03-07,43,-79,27,0,3,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200307,,,,,,,,,,3,0,1
 0,Toronto,Ontario,Canada,2020-03-08,43,-79,28,0,3,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200308,,,,,,,,,,1,0,0
-0,Toronto,Ontario,Canada,2020-03-09,43,-79,0,0,0,,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200309,,,,,,,,,,0,0,0
+0,Toronto,Ontario,Canada,2020-03-09,43,-79,0,0,0,0,"Toronto, Ontario, Canada",CA,CanadaOntarioToronto20200309,,,,,,,,,,0,0,0
 0,-,Prince Edward Island,Canada,2020-04-14,46,-63,25,0,0,25,"Prince Edward Island, Canada",CA,CanadaPrince Edward Island-20200414,,,,,,,,,,,,
 0,-,Quebec,Canada,2020-03-09,52,-73,3,0,0,,"Quebec, Canada",CA,CanadaQuebec-20200309,,,,,,,,,,,,
 0,-,Quebec,Canada,2020-03-10,52,-73,4,0,0,,"Quebec, Canada",CA,CanadaQuebec-20200310,,,,,,,,,,1,0,0
@@ -697,7 +697,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Quebec,Canada,2020-03-12,52,-73,9,0,0,,"Quebec, Canada",CA,CanadaQuebec-20200312,,,,,,,,,,1,0,0
 0,-,Quebec,Canada,2020-04-14,52,-73,14248,435,0,13813,"Quebec, Canada",CA,CanadaQuebec-20200414,,,,,,,,,,,,
 0,Montreal,Quebec,Canada,2020-02-28,45,-73,1,0,0,,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200228,0,0,0,0,0,0,,,,,,
-0,Montreal,Quebec,Canada,2020-02-29,45,-73,1,0,0,,"Quebec, Canada",CA,CanadaQuebecMontreal20200229,0,0,0,0,0,0,,0,0,,,
+0,Montreal,Quebec,Canada,2020-02-29,45,-73,1,0,0,,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200229,0,0,0,0,0,0,,0,0,,,
 0,Montreal,Quebec,Canada,2020-03-01,,,1,0,0,0,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200301,0,0,0,0,0,0,,0,0,,,
 0,Montreal,Quebec,Canada,2020-03-02,,,1,0,0,,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200302,0,0,0,0,0,0,,0,0,,,
 0,Montreal,Quebec,Canada,2020-03-03,,,1,0,0,,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200303,0,0,0,0,0,0,,0,0,,,
@@ -705,7 +705,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,Montreal,Quebec,Canada,2020-03-05,45,-73,2,0,0,,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200305,,,,,,,,,,1,0,0
 0,Montreal,Quebec,Canada,2020-03-07,45,-73,3,0,0,,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200307,,,,,,,,,,3,0,0
 0,Montreal,Quebec,Canada,2020-03-08,45,-73,4,0,0,,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200308,,,,,,,,,,1,0,0
-0,Montreal,Quebec,Canada,2020-03-09,45,-73,0,0,0,,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200309,,,,,,,,,,0,0,0
+0,Montreal,Quebec,Canada,2020-03-09,45,-73,0,0,0,0,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200309,,,,,,,,,,0,0,0
 0,-,Saskatchewan,Canada,2020-04-14,52,-106,300,4,0,296,"Saskatchewan, Canada",CA,CanadaSaskatchewan-20200414,,,,,,,,,,,,
 0,-,Yukon,Canada,2020-04-14,64,-135,8,0,0,8,"Yukon, Canada",CA,CanadaYukon-20200414,,,,,,,,,,,,
 0,-,-,Central African Republic,2020-04-14,6,20,11,0,4,7,Central African Republic,CF,Central African Republic--20200414,,,,,,,,,,,,
@@ -842,7 +842,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Chongqing,China,2020-02-05,,,389,2,15,0,"Chongqing, China",CN,ChinaChongqing-20200205,,,,,,,,,,23,0,6
 0,-,Chongqing,China,2020-02-06,,,411,2,24,,"Chongqing, China",CN,ChinaChongqing-20200206,,,,,,,,,,22,0,9
 0,-,Chongqing,China,2020-02-07,,,426,2,31,,"Chongqing, China",CN,ChinaChongqing-20200207,,,,,,,,,,15,0,7
-0,-,Chongqing,China,2020-02-08,,,428,2,39,,"Jiangsu, China",CN,ChinaChongqing-20200208,,,,,,,,,,2,0,8
+0,-,Chongqing,China,2020-02-08,,,428,2,39,,"Chongqing, China",CN,ChinaChongqing-20200208,,,,,,,,,,2,0,8
 0,-,Chongqing,China,2020-02-09,,,468,2,51,,"Chongqing, China",CN,ChinaChongqing-20200209,,,,,,,,,,40,0,12
 0,-,Chongqing,China,2020-02-10,,,486,2,66,0,"Chongqing, China",CN,ChinaChongqing-20200210,,,,,,,,,,18,0,15
 0,-,Chongqing,China,2020-02-11,,,505,3,79,,"Chongqing, China",CN,ChinaChongqing-20200211,,,,,,,,,,19,1,13
@@ -1050,7 +1050,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Guangxi,China,2020-02-05,,,150,0,13,0,"Guangxi, China",CN,ChinaGuangxi-20200205,,,,,,,,,,11,0,3
 0,-,Guangxi,China,2020-02-06,,,168,0,14,,"Guangxi, China",CN,ChinaGuangxi-20200206,,,,,,,,,,18,0,1
 0,-,Guangxi,China,2020-02-07,,,172,0,17,,"Guangxi, China",CN,ChinaGuangxi-20200207,,,,,,,,,,4,0,3
-0,-,Guangxi,China,2020-02-08,,,183,0,17,,"Hebei, China",CN,ChinaGuangxi-20200208,,,,,,,,,,11,0,0
+0,-,Guangxi,China,2020-02-08,,,183,0,17,,"Guangxi, China",CN,ChinaGuangxi-20200208,,,,,,,,,,11,0,0
 0,-,Guangxi,China,2020-02-09,,,195,1,18,,"Guangxi, China",CN,ChinaGuangxi-20200209,,,,,,,,,,12,1,1
 0,-,Guangxi,China,2020-02-10,,,210,1,24,0,"Guangxi, China",CN,ChinaGuangxi-20200210,,,,,,,,,,15,0,6
 0,-,Guangxi,China,2020-02-11,,,215,1,33,,"Guangxi, China",CN,ChinaGuangxi-20200211,,,,,,,,,,5,0,9
@@ -1237,7 +1237,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Hebei,China,2020-03-07,38,114,318,6,307,,"Hebei, China",CN,ChinaHebei-20200307,,,,,,,,,,0,0,2
 0,-,Hebei,China,2020-03-08,38,114,318,6,307,,"Hebei, China",CN,ChinaHebei-20200308,,,,,,,,,,0,0,0
 0,-,Hebei,China,2020-03-09,38,114,318,6,307,,"Hebei, China",CN,ChinaHebei-20200309,,,,,,,,,,0,0,0
-0,-,Hebei,China,2020-03-10,38,114,0,0,0,,"Hebei, China",CN,ChinaHebei-20200311,,,,,,,,,,-318,-6,-307
+0,-,Hebei,China,2020-03-10,38,114,318,6,307,,"Hebei, China",CN,ChinaHebei-20200310,,,,,,,,,,-318,-6,-307
 0,-,Hebei,China,2020-03-12,39,116,318,6,308,,"Hebei, China",CN,ChinaHebei-20200312,,,,,,,,,,318,6,308
 0,-,Hebei,China,2020-03-13,39,116,318,6,308,,"Hebei, China",CN,ChinaHebei-20200313,,,,,,,,,,0,0,0
 0,-,Hebei,China,2020-04-14,39,116,327,6,314,7,"Hebei, China",CN,ChinaHebei-20200414,,,,,,,,,,,,
@@ -1570,7 +1570,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Jiangsu,China,2020-02-05,,,341,0,23,0,"Jiangsu, China",CN,ChinaJiangsu-20200205,,,,,,,,,,33,0,11
 0,-,Jiangsu,China,2020-02-06,,,373,0,34,,"Jiangsu, China",CN,ChinaJiangsu-20200206,,,,,,,,,,32,0,11
 0,-,Jiangsu,China,2020-02-07,,,408,0,43,,"Jiangsu, China",CN,ChinaJiangsu-20200207,,,,,,,,,,35,0,9
-0,-,Jiangsu,China,2020-02-08,,,439,0,51,,"Chongqing, China",CN,ChinaJiangsu-20200208,,,,,,,,,,31,0,8
+0,-,Jiangsu,China,2020-02-08,,,439,0,51,,"Jiangsu, China",CN,ChinaJiangsu-20200208,,,,,,,,,,31,0,8
 0,-,Jiangsu,China,2020-02-09,,,468,0,71,,"Jiangsu, China",CN,ChinaJiangsu-20200209,,,,,,,,,,29,0,20
 0,-,Jiangsu,China,2020-02-10,,,492,0,81,0,"Jiangsu, China",CN,ChinaJiangsu-20200210,,,,,,,,,,24,0,10
 0,-,Jiangsu,China,2020-02-11,,,515,0,93,,"Jiangsu, China",CN,ChinaJiangsu-20200211,,,,,,,,,,23,0,12
@@ -2225,8 +2225,6 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Tianjin,China,2020-03-11,39,117,136,3,131,,"Tianjin, China",CN,ChinaTianjin-20200311,,,,,,,,,,0,0,0
 0,-,Tianjin,China,2020-03-12,39,117,136,3,132,,"Tianjin, China",CN,ChinaTianjin-20200312,,,,,,,,,,0,0,1
 0,-,Tianjin,China,2020-04-14,39,117,185,3,168,14,"Tianjin, China",CN,ChinaTianjin-20200414,,,,,,,,,,,,
-0,-,Tibet,China,2020-01-22,,,0,0,0,0,"Tibet, China",CN,ChinaTibet-20200122,,,,,,,,,,,,
-0,-,Tibet,China,2020-01-23,,,0,0,0,0,"Tibet, China",CN,ChinaTibet-20200123,,,,,,,,,,,,
 0,-,Tibet,China,2020-01-30,,,1,0,0,0,"Tibet,  China",CN,ChinaTibet-20200130,,,,,,,,,,,,
 0,-,Tibet,China,2020-01-31,,,1,0,0,0,"Tibet, China",CN,ChinaTibet-20200131,,,,,,,,,,0,,
 0,-,Tibet,China,2020-02-01,,,1,0,0,,"Tibet, China",CN,ChinaTibet-20200201,,,,,,,,,,0,,
@@ -2251,7 +2249,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Tibet,China,2020-02-20,,,1,0,1,0,"Tibet, China",CN,ChinaTibet-20200220,0,0,0,0,0,0,,0,0,,,
 0,-,Tibet,China,2020-02-21,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200221,0,0,0,0,0,0,,0,0,,,
 0,-,Tibet,China,2020-02-22,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200222,0,0,0,0,0,0,,0,0,,,
-0,-,Tibet,China,2020-02-23,31,88,1,0,1,0,"Tibet, China",CN,ChinaTibet-20200223,,,,,,,,,,0,0,0
+0,-,Tibet,China,2020-02-23,,,1,0,1,0,"Tibet, China",CN,ChinaTibet-20200223,,,,,,,,,,0,0,0
 0,-,Tibet,China,2020-02-24,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200224,0,0,0,0,0,0,,0,0,,,
 0,-,Tibet,China,2020-02-25,,,1,0,1,0,"Tibet, China",CN,ChinaTibet-20200225,0,0,0,0,0,0,,0,0,,,
 0,-,Tibet,China,2020-02-26,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200226,0,0,0,0,0,0,,0,0,,,
@@ -2263,11 +2261,11 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Tibet,China,2020-03-03,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200303,0,0,0,0,0,0,,0,0,,,
 0,-,Tibet,China,2020-03-04,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200304,0,0,0,0,0,0,,0,0,,,
 0,-,Tibet,China,2020-03-05,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200305,,,,,,,,,0,0,0,0
-0,-,Tibet,China,2020-03-07,43,-89,1,0,1,,"Tibet, China",CN,ChinaTibet-20200307,,,,,,,,,,0,0,0
-0,-,Tibet,China,2020-03-09,24,101,174,2,170,,"Yunnan, China",CN,ChinaTibet-20200309,,,,,,,,,,0,0,0
-0,-,Tibet,China,2020-03-10,24,101,174,2,170,,"Yunnan, China",CN,ChinaTibet-20200310,,,,,,,,,,0,0,0
-0,-,Tibet,China,2020-03-11,31,88,1,0,1,,"Tibet, China",CN,ChinaTibet-20200311,,,,,,,,,,-173,-2,-169
-0,-,Tibet,China,2020-03-12,31,88,1,0,1,,"Tibet, China",CN,ChinaTibet-20200312,,,,,,,,,,0,0,0
+0,-,Tibet,China,2020-03-07,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200307,,,,,,,,,,0,0,0
+0,-,Tibet,China,2020-03-09,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200309,,,,,,,,,,0,0,0
+0,-,Tibet,China,2020-03-10,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200310,,,,,,,,,,0,0,0
+0,-,Tibet,China,2020-03-11,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200311,,,,,,,,,,0,0,0
+0,-,Tibet,China,2020-03-12,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200312,,,,,,,,,,0,0,0
 0,-,Xinjiang,China,2020-01-22,,,0,0,0,0,"Xinjiang, China",CN,ChinaXinjiang-20200122,,,,,,,,,,,,
 0,-,Xinjiang,China,2020-01-23,,,2,0,0,0,"Xinjiang, China",CN,ChinaXinjiang-20200123,,,,,,,,,,,,
 0,-,Xinjiang,China,2020-01-24,,,2,0,0,0,"Xinjiang, China",CN,ChinaXinjiang-20200124,,,,,,,,,,0,,
@@ -2371,7 +2369,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Yunnan,China,2020-03-12,24,101,174,2,170,,"Yunnan, China",CN,ChinaYunnan-20200312,,,,,,,,,,0,0,0
 0,-,Yunnan,China,2020-04-14,24,101,184,2,175,7,"Yunnan, China",CN,ChinaYunnan-20200414,,,,,,,,,,,,
 0,-,Zhejiang,China,2020-01-22,,,10,0,0,0,"Zhejiang, China",CN,ChinaZhejiang-20200122,,,,,,,,,,10,0,0
-0,-,Zhejiang,China,2020-01-23,,,27,0,0,0,China,CN,ChinaZhejiang-20200123,,,,,,,,,,17,,
+0,-,Zhejiang,China,2020-01-23,,,27,0,0,0,"Zhejiang, China",CN,ChinaZhejiang-20200123,,,,,,,,,,17,,
 0,-,Zhejiang,China,2020-01-24,,,43,0,1,0,"Zhejiang, China",CN,ChinaZhejiang-20200124,,,,,,,,,,16,,
 0,-,Zhejiang,China,2020-01-25,,,62,0,1,0,"Zhejiang, China",CN,ChinaZhejiang-20200125,,,,,,,,,,19,,0
 0,-,Zhejiang,China,2020-01-26,,,104,0,1,0,"Zhejiang, China",CN,ChinaZhejiang-20200126,,,,,,,,,,42,,0
@@ -2528,21 +2526,21 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Diamond Princess,Cruise Ship,2020-02-26,,,705,4,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200226,0,0,0,0,0,0,"Transfer Out to AU 7, US 42, IL 1",,44,14,1,10
 0,-,Diamond Princess,Cruise Ship,2020-02-27,,,705,4,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200227,0,0,0,0,0,0,"Transfer Out to AU 8, US 42, IL 1",0,50,,,
 0,-,Diamond Princess,Cruise Ship,2020-02-28,,,705,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200228,0,0,0,0,0,0,"Transfer Out to AU 8, US 44, IL 1",,52,0,2,0
-0,-,Diamond Princess,Cruise Ship,2020-02-29,35,139,705,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200229,0,0,0,0,0,0,"Transfer Out to AU 8, US 44, IL 1",,44,0,0,0
+0,-,Diamond Princess,Cruise Ship,2020-02-29,,,705,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200229,0,0,0,0,0,0,"Transfer Out to AU 8, US 44, IL 1",,44,0,0,0
 0,-,Diamond Princess,Cruise Ship,2020-03-01,,,705,6,10,0,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200301,0,0,0,0,0,0,,0,44,,,
-0,-,Diamond Princess,Cruise Ship,2020-03-02,35,139,705,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200302,0,0,0,0,0,0,,0,44,,,
-0,-,Diamond Princess,Cruise Ship,2020-03-03,35,139,706,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200303,0,0,0,0,0,0,,,44,1,0,0
-0,-,Diamond Princess,Cruise Ship,2020-03-04,35,139,706,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200304,0,0,0,0,0,0,,0,44,,,
-0,-,Diamond Princess,Cruise Ship,2020-03-05,35,139,706,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200305,,,,,,,,,0,0,0,0
-0,-,Diamond Princess,Cruise Ship,2020-03-06,35,139,696,6,40,,"Diamond Princess, Cruise ship",-,Cruise ShipDiamond Princess-20200306,,,,,,,,,,,,
-0,-,Diamond Princess,Cruise Ship,2020-03-07,35,139,696,6,40,,"Diamond Princess, Cruise ship",-,Cruise ShipDiamond Princess-20200307,,,,,,,,,,0,0,0
-0,-,Diamond Princess,Cruise Ship,2020-03-08,35,139,696,6,40,,"Diamond Princess, Cruise ship",-,Cruise ShipDiamond Princess-20200308,,,,,,,,,,0,0,0
-0,-,Diamond Princess,Cruise Ship,2020-03-09,35,139,696,6,40,,"Diamond Princess, Cruise ship",-,Cruise ShipDiamond Princess-20200309,,,,,,,,,,0,0,0
-0,-,Diamond Princess,Cruise Ship,2020-03-10,35,139,696,6,40,,"Diamond Princess, Cruise ship",-,Cruise ShipDiamond Princess-20200310,,,,,,,,,,0,0,0
-0,-,Diamond Princess,Cruise Ship,2020-03-11,35,139,696,7,325,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200311,,,,,,,,,,,,
-0,-,Diamond Princess,Cruise Ship,2020-03-12,35,139,696,7,325,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200312,,,,,,,,,,0,0,0
+0,-,Diamond Princess,Cruise Ship,2020-03-02,,,705,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200302,0,0,0,0,0,0,,0,44,,,
+0,-,Diamond Princess,Cruise Ship,2020-03-03,,,706,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200303,0,0,0,0,0,0,,,44,1,0,0
+0,-,Diamond Princess,Cruise Ship,2020-03-04,,,706,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200304,0,0,0,0,0,0,,0,44,,,
+0,-,Diamond Princess,Cruise Ship,2020-03-05,,,706,6,10,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200305,,,,,,,,,0,0,0,0
+0,-,Diamond Princess,Cruise Ship,2020-03-06,,,696,6,40,,"Diamond Princess, Cruise ship",-,Cruise ShipDiamond Princess-20200306,,,,,,,,,,,,
+0,-,Diamond Princess,Cruise Ship,2020-03-07,,,696,6,40,,"Diamond Princess, Cruise ship",-,Cruise ShipDiamond Princess-20200307,,,,,,,,,,0,0,0
+0,-,Diamond Princess,Cruise Ship,2020-03-08,,,696,6,40,,"Diamond Princess, Cruise ship",-,Cruise ShipDiamond Princess-20200308,,,,,,,,,,0,0,0
+0,-,Diamond Princess,Cruise Ship,2020-03-09,,,696,6,40,,"Diamond Princess, Cruise ship",-,Cruise ShipDiamond Princess-20200309,,,,,,,,,,0,0,0
+0,-,Diamond Princess,Cruise Ship,2020-03-10,,,696,6,40,,"Diamond Princess, Cruise ship",-,Cruise ShipDiamond Princess-20200310,,,,,,,,,,0,0,0
+0,-,Diamond Princess,Cruise Ship,2020-03-11,,,696,7,325,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200311,,,,,,,,,,,,
+0,-,Diamond Princess,Cruise Ship,2020-03-12,,,696,7,325,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200312,,,,,,,,,,0,0,0
 0,-,Diamond Princess,Cruise Ship,2020-04-14,,,712,12,639,61,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200414,,,,,,,,,,,,
-0,-,Diamond Princess,Cruise Ship,2020-02-07,,,61,0,0,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamondPrincess-20200207,,,,,,,,,,,,
+0,-,Diamond Princess,Cruise Ship,2020-02-07,,,61,0,0,,"Diamond Princess, Cruise Ship",-,Cruise ShipDiamond Princess-20200207,,,,,,,,,,,,
 0,-,MS Zaandam,Cruise Ship,2020-04-14,,,9,2,0,7,"MS Zaandam, Cruise Ship",-,Cruise ShipMS Zaandam-20200414,,,,,,,,,,,,
 0,-,-,Cuba,2020-03-12,22,-80,3,0,0,,Cuba,CU,Cuba--20200312,,,,,,,,,,,,
 0,-,-,Cuba,2020-04-14,21,-77,766,21,132,613,Cuba,CU,Cuba--20200414,,,,,,,,,,,,
@@ -2578,10 +2576,10 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,-,Denmark,2020-03-09,56,9,90,0,1,,Denmark,DK,Denmark--20200309,,,,,,,,,,55,0,0
 0,-,-,Denmark,2020-03-10,56,9,262,0,1,,Denmark,DK,Denmark--20200310,,,,,,,,,,172,0,0
 0,-,-,Denmark,2020-04-14,56,9,6511,299,2515,3697,Denmark,DK,Denmark--20200414,,,,,,,,,,,,
-0,-,-,Denmark,2020-03-11,56,9,442,0,1,,Denmark,DK,Denmark-20200311,,,,,,,,,,,,
-0,-,-,Denmark,2020-03-12,56,9,615,0,1,,Denmark,DK,Denmark-20200312,,,,,,,,,,173,0,0
-0,-,Faroe Islands,Denmark,2020-03-05,61,-6,1,0,0,,"Faroe Islands, Denmark",FO,DenmarkFaroe Islands--20200305,,,,,,,,,,0,0,0
-0,-,Faroe Islands,Denmark,2020-03-06,61,-6,1,0,0,,"Faroe Islands, Denmark",FO,DenmarkFaroe Islands--20200306,,,,,,,,,,0,0,0
+0,-,-,Denmark,2020-03-11,56,9,442,0,1,,Denmark,DK,Denmark--20200311,,,,,,,,,,,,
+0,-,-,Denmark,2020-03-12,56,9,615,0,1,,Denmark,DK,Denmark--20200312,,,,,,,,,,173,0,0
+0,-,Faroe Islands,Denmark,2020-03-05,61,-6,1,0,0,,"Faroe Islands, Denmark",FO,DenmarkFaroe Islands-20200305,,,,,,,,,,0,0,0
+0,-,Faroe Islands,Denmark,2020-03-06,61,-6,1,0,0,,"Faroe Islands, Denmark",FO,DenmarkFaroe Islands-20200306,,,,,,,,,,0,0,0
 0,-,Faroe Islands,Denmark,2020-03-04,61,-6,1,0,0,,"Faroe Islands, Denmark",FO,DenmarkFaroe Islands-20200304,0,0,0,0,0,0,,,,,,
 0,-,Faroe Islands,Denmark,2020-03-07,43,-89,1,0,1,,"Faroe Islands, Denmark",FO,DenmarkFaroe Islands-20200307,,,,,,,,,,0,0,0
 0,-,Faroe Islands,Denmark,2020-03-08,61,-6,2,0,0,,"Faroe Islands, Denmark",FO,DenmarkFaroe Islands-20200308,,,,,,,,,,1,0,-1
@@ -2762,9 +2760,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,-,France,2020-03-10,47,2,1784,33,12,,France,FR,France--20200310,,,,,,,,,,575,14,0
 0,-,-,France,2020-03-11,46,2,2281,48,12,,France,FR,France--20200311,,,,,,,,,,,,
 0,-,-,France,2020-03-12,46,2,2281,48,12,,France,FR,France--20200312,,,,,,,,,,0,0,0
-250,-,Paris,France,2020-04-14,46,2,130253,15729,28805,85719,France,FR,France--20200414,,,,,,,,,,,,
-0,-,France,France,2020-03-11,46,2,2281,48,12,,"France, France",FR,FranceFrance-20200311,,,,,,,,,,,,
-0,-,France,France,2020-03-12,46,2,2281,48,12,,"France, France",FR,FranceFrance-20200312,,,,,,,,,,0,0,0
+250,-,-,France,2020-04-14,46,2,130253,15729,28805,85719,France,FR,France--20200414,,,,,,,,,,,,
 0,-,French Guiana,France,2020-03-07,3,-53,5,0,0,,"French Guiana, France",GF,FranceFrench Guiana-20200307,,,,,,,,,,,,
 0,-,French Guiana,France,2020-03-08,3,-53,5,0,0,,"French Guiana, France",GF,FranceFrench Guiana-20200308,,,,,,,,,,0,0,0
 0,-,French Guiana,France,2020-03-09,3,-53,5,0,0,,"French Guiana, France",GF,FranceFrench Guiana-20200309,,,,,,,,,,0,0,0
@@ -2800,7 +2796,6 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Saint Martin,France,2020-03-12,18,-63,2,0,0,,"Saint Martin, France",MF,FranceSaint Martin-20200312,,,,,,,,,,0,0,0
 0,-,Saint Martin,France,2020-04-14,18,-63,32,2,11,19,"Saint Martin, France",MF,FranceSaint Martin-20200414,,,,,,,,,,,,
 0,-,Saint Pierre and Miquelon,France,2020-04-14,46,-56,1,0,0,1,"Saint Pierre and Miquelon, France",PM,FranceSaint Pierre and Miquelon-20200414,,,,,,,,,,,,
-0,-,-,French Guiana,2020-03-07,3,-53,5,0,0,,French Guiana,GF,French Guiana--20200307,,,,,,,,,,,,
 0,-,-,Gabon,2020-04-14,0,11,57,1,1,55,Gabon,GA,Gabon--20200414,,,,,,,,,,,,
 0,-,-,Gambia,2020-04-14,13,-15,9,1,2,6,Gambia,GM,Gambia--20200414,,,,,,,,,,,,
 0,-,-,Georgia,2020-02-26,,,1,0,0,,Georgia,GE,Georgia--20200226,,,,,,,,,,,,
@@ -3303,7 +3298,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,-,Lebanon,2020-03-11,33,35,61,3,1,,Lebanon,LB,Lebanon--20200311,,,,,,,,,,20,2,0
 0,-,-,Lebanon,2020-03-12,33,35,61,3,1,,Lebanon,LB,Lebanon--20200312,,,,,,,,,,0,0,0
 0,-,-,Lebanon,2020-04-14,33,35,641,21,80,540,Lebanon,LB,Lebanon--20200414,,,,,,,,,,,,
-0,-,-,Lebanon,2020-02-21,,,1,0,0,,"None, Lebanon",LB,LebanonNone-20200221,0,0,0,0,0,0,,,,,,
+0,-,-,Lebanon,2020-02-21,,,1,0,0,,Lebanon,LB,Lebanon--20200221,0,0,0,0,0,0,,,,,,
 0,-,-,Liberia,2020-04-14,6,-9,59,6,4,49,Liberia,LR,Liberia--20200414,,,,,,,,,,,,
 0,-,-,Libya,2020-04-14,26,17,35,1,9,25,Libya,LY,Libya--20200414,,,,,,,,,,,,
 0,-,-,Liechtenstein,2020-03-04,47,9,1,0,0,,Liechtenstein,LI,Liechtenstein--20200304,0,0,0,0,0,0,,,,,,
@@ -4092,9 +4087,9 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,-,Switzerland,2020-03-12,46,8,652,4,4,,Switzerland,CH,Switzerland--20200312,,,,,,,,,,0,0,0
 0,-,-,Switzerland,2020-04-14,46,8,25936,1174,13700,11062,Switzerland,CH,Switzerland--20200414,,,,,,,,,,,,
 0,-,-,Syria,2020-04-14,34,38,29,2,5,22,Syria,SY,Syria--20200414,,,,,,,,,,,,
-0,-,Taiwan,Taiwan,2020-03-11,23,121,48,1,17,,Taiwan,TW,Taiwan--20200311,,,,,,,,,,,,
-0,-,Taiwan,Taiwan,2020-03-12,23,121,49,1,20,,Taiwan,TW,Taiwan--20200312,,,,,,,,,,1,0,3
-0,-,Taiwan,Taiwan,2020-04-14,23,121,393,6,124,263,Taiwan,TW,Taiwan--20200414,,,,,,,,,,,,
+0,-,Taiwan,Taiwan,2020-03-11,23,121,48,1,17,,Taiwan,TW,TaiwanTaiwan-20200311,,,,,,,,,,,,
+0,-,Taiwan,Taiwan,2020-03-12,23,121,49,1,20,,Taiwan,TW,TaiwanTaiwan-20200312,,,,,,,,,,1,0,3
+0,-,Taiwan,Taiwan,2020-04-14,23,121,393,6,124,263,Taiwan,TW,TaiwanTaiwan-20200414,,,,,,,,,,,,
 0,-,Taiwan,Taiwan,2020-01-22,,,1,0,0,0,"Taiwan, Taiwan",TW,TaiwanTaiwan-20200122,,,,,,,,,,1,0,0
 0,-,Taiwan,Taiwan,2020-01-23,,,1,0,0,0,"Taiwan, Taiwan",TW,TaiwanTaiwan-20200123,,,,,,,,,,0,0,0
 0,-,Taiwan,Taiwan,2020-01-24,,,3,0,0,0,"Taiwan, Taiwan",TW,TaiwanTaiwan-20200124,,,,,,,,,,2,0,0
@@ -8223,7 +8218,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 56041,Uinta,Wyoming,US,2020-04-14,41,-110,4,0,0,4,"Uinta, Wyoming, US",US,USWyomingUinta43935.98125,,,,,,,,,,,,
 ,Unassigned,Wyoming,US,2020-04-14,,,0,0,0,0,"Unassigned, Wyoming, US",US,USWyomingUnassigned43935.98125,,,,,,,,,,,,
 56043,Washakie,Wyoming,US,2020-04-14,43,-107,5,0,0,5,"Washakie, Wyoming, US",US,USWyomingWashakie43935.98125,,,,,,,,,,,,
-0,-,-,Uganda,2020-04-14,1,32,55,0,8,47,Uganda,UG,Uganda-43935.98125,,,,,,,,,,,,
+0,-,-,Uganda,2020-04-14,1,32,55,0,8,47,Uganda,UG,Uganda--20200414,,,,,,,,,,,,
 0,-,-,Ukraine,2020-03-03,48,31,1,0,0,,Ukraine,UA,Ukraine--20200303,0,0,0,0,0,0,,,,,,
 0,-,-,Ukraine,2020-03-04,48,31,1,0,0,,Ukraine,UA,Ukraine--20200304,0,0,0,0,0,0,,0,0,,,
 0,-,-,Ukraine,2020-03-05,48,31,1,0,0,,Ukraine,UA,Ukraine--20200305,,,,,,,,,0,0,0,0
@@ -8279,7 +8274,7 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,-,United Arab Emirates,2020-03-10,23,53,74,0,12,,United Arab Emirates,AE,United Arab Emirates--20200310,,,,,,,,,,,,
 0,-,-,United Arab Emirates,2020-03-11,23,53,74,0,17,,United Arab Emirates,AE,United Arab Emirates--20200311,,,,,,,,,,0,0,5
 0,-,-,United Arab Emirates,2020-03-12,23,53,85,0,17,,United Arab Emirates,AE,United Arab Emirates--20200312,,,,,,,,,,11,0,0
-0,-,-,United Arab Emirates,2020-04-14,23,53,4933,28,933,3972,United Arab Emirates,AE,United Arab Emirates-43935.98125,,,,,,,,,,,,
+0,-,-,United Arab Emirates,2020-04-14,23,53,4933,28,933,3972,United Arab Emirates,AE,United Arab Emirates--20200414,,,,,,,,,,,,
 0,-,-,United Kingdom,2020-01-31,,,2,0,0,0,United Kingdom,GB,United Kingdom--20200131,,,,,,,,,,0,0,0
 0,-,-,United Kingdom,2020-02-01,,,2,0,0,,United Kingdom,GB,United Kingdom--20200201,,,,,,,,,,0,,
 0,-,-,United Kingdom,2020-02-02,,,2,0,0,,United Kingdom,GB,United Kingdom--20200202,,,,,,,,0,0,0,0,0
@@ -8322,16 +8317,16 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,-,United Kingdom,2020-03-10,55,-3,382,6,18,,United Kingdom,GB,United Kingdom--20200310,,,,,,,,,,61,2,0
 0,-,-,United Kingdom,2020-03-11,55,-3,456,8,18,,United Kingdom,GB,United Kingdom--20200311,,,,,,,,,,,,
 0,-,-,United Kingdom,2020-03-12,55,-3,456,8,18,,United Kingdom,GB,United Kingdom--20200312,,,,,,,,,,0,0,0
-0,-,London,United Kingdom,2020-04-14,55,-3,93873,12107,0,81766,United Kingdom,GB,United Kingdom-43935.98125,,,,,,,,,,,,
-0,-,Anguilla,United Kingdom,2020-04-14,18,-63,3,0,1,2,"Anguilla, United Kingdom",AI,United KingdomAnguilla-43935.98125,,,,,,,,,,,,
-0,-,Bermuda,United Kingdom,2020-04-14,32,-64,57,5,30,22,"Bermuda, United Kingdom",BM,United KingdomBermuda-43935.98125,,,,,,,,,,,,
-0,-,British Virgin Islands,United Kingdom,2020-04-14,18,-64,3,0,2,1,"British Virgin Islands, United Kingdom",VG,United KingdomBritish Virgin Islands-43935.98125,,,,,,,,,,,,
-0,-,Cayman Islands,United Kingdom,2020-04-14,19,-81,54,1,6,47,"Cayman Islands, United Kingdom",KY,United KingdomCayman Islands-43935.98125,,,,,,,,,,,,
+0,-,London,United Kingdom,2020-04-14,55,-3,93873,12107,0,81766,United Kingdom,GB,United Kingdom--20200414,,,,,,,,,,,,
+0,-,Anguilla,United Kingdom,2020-04-14,18,-63,3,0,1,2,"Anguilla, United Kingdom",AI,United KingdomAnguilla-20200414,,,,,,,,,,,,
+0,-,Bermuda,United Kingdom,2020-04-14,32,-64,57,5,30,22,"Bermuda, United Kingdom",BM,United KingdomBermuda-20200414,,,,,,,,,,,,
+0,-,British Virgin Islands,United Kingdom,2020-04-14,18,-64,3,0,2,1,"British Virgin Islands, United Kingdom",VG,United KingdomBritish Virgin Islands-20200414,,,,,,,,,,,,
+0,-,Cayman Islands,United Kingdom,2020-04-14,19,-81,54,1,6,47,"Cayman Islands, United Kingdom",KY,United KingdomCayman Islands-20200414,,,,,,,,,,,,
 0,-,Channel Islands,United Kingdom,2020-03-10,49,-2,1,0,0,,"Channel Islands, United Kingdom",GB,United KingdomChannel Islands-20200310,,,,,,,,,,,,
 0,-,Channel Islands,United Kingdom,2020-03-11,49,-2,2,0,0,,"Channel Islands, United Kingdom",GB,United KingdomChannel Islands-20200311,,,,,,,,,,1,0,0
 0,-,Channel Islands,United Kingdom,2020-03-12,49,-2,2,0,0,,"Channel Islands, United Kingdom",GB,United KingdomChannel Islands-20200312,,,,,,,,,,0,0,0
-0,-,Channel Islands,United Kingdom,2020-04-14,49,-2,440,13,48,379,"Channel Islands, United Kingdom",GB,United KingdomChannel Islands-43935.98125,,,,,,,,,,,,
-0,-,Falkland Islands (Malvinas),United Kingdom,2020-04-14,-51,-59,11,0,1,10,"Falkland Islands (Malvinas), United Kingdom",FK,United KingdomFalkland Islands (Malvinas)-43935.98125,,,,,,,,,,,,
+0,-,Channel Islands,United Kingdom,2020-04-14,49,-2,440,13,48,379,"Channel Islands, United Kingdom",GB,United KingdomChannel Islands-20200414,,,,,,,,,,,,
+0,-,Falkland Islands (Malvinas),United Kingdom,2020-04-14,-51,-59,11,0,1,10,"Falkland Islands (Malvinas), United Kingdom",FK,United KingdomFalkland Islands (Malvinas)-20200414,,,,,,,,,,,,
 0,-,Gibraltar,United Kingdom,2020-03-04,36,-5,1,0,0,,"Gibraltar, United Kingdom",GI,United KingdomGibraltar-20200304,,,,,,,,,,,,
 0,-,Gibraltar,United Kingdom,2020-03-05,36,-5,1,0,0,,"Gibraltar, United Kingdom",GI,United KingdomGibraltar-20200305,,,,,,,,,,0,0,0
 0,-,Gibraltar,United Kingdom,2020-03-06,36,-5,1,0,0,,"Gibraltar, United Kingdom",GI,United KingdomGibraltar-20200306,,,,,,,,,,0,0,0
@@ -8341,16 +8336,16 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,Gibraltar,United Kingdom,2020-03-10,36,-5,1,0,1,,"Gibraltar, United Kingdom",GI,United KingdomGibraltar-20200310,,,,,,,,,,,,
 0,-,Gibraltar,United Kingdom,2020-03-11,36,-5,1,0,1,,"Gibraltar, United Kingdom",GI,United KingdomGibraltar-20200311,,,,,,,,,,0,0,0
 0,-,Gibraltar,United Kingdom,2020-03-12,36,-5,1,0,1,,"Gibraltar, United Kingdom",GI,United KingdomGibraltar-20200312,,,,,,,,,,0,0,0
-0,-,Gibraltar,United Kingdom,2020-04-14,36,-5,129,0,93,36,"Gibraltar, United Kingdom",GI,United KingdomGibraltar-43935.98125,,,,,,,,,,,,
-0,-,Isle of Man,United Kingdom,2020-04-14,54,-4,254,2,141,111,"Isle of Man, United Kingdom",IM,United KingdomIsle of Man-43935.98125,,,,,,,,,,,,
-0,-,Montserrat,United Kingdom,2020-04-14,16,-62,11,0,1,10,"Montserrat, United Kingdom",MS,United KingdomMontserrat-43935.98125,,,,,,,,,,,,
+0,-,Gibraltar,United Kingdom,2020-04-14,36,-5,129,0,93,36,"Gibraltar, United Kingdom",GI,United KingdomGibraltar-20200414,,,,,,,,,,,,
+0,-,Isle of Man,United Kingdom,2020-04-14,54,-4,254,2,141,111,"Isle of Man, United Kingdom",IM,United KingdomIsle of Man-20200414,,,,,,,,,,,,
+0,-,Montserrat,United Kingdom,2020-04-14,16,-62,11,0,1,10,"Montserrat, United Kingdom",MS,United KingdomMontserrat-20200414,,,,,,,,,,,,
 0,-,North Ireland,United Kingdom,2020-02-28,,,1,0,0,,"North Ireland, United Kingdom",GB,United KingdomNorth Ireland-20200228,,,,,,,,,,,,
-0,-,Turks and Caicos Islands,United Kingdom,2020-04-14,21,-71,10,1,0,9,"Turks and Caicos Islands, United Kingdom",TC,United KingdomTurks and Caicos Islands-43935.98125,,,,,,,,,,,,
+0,-,Turks and Caicos Islands,United Kingdom,2020-04-14,21,-71,10,1,0,9,"Turks and Caicos Islands, United Kingdom",TC,United KingdomTurks and Caicos Islands-20200414,,,,,,,,,,,,
 0,-,UK,United Kingdom,2020-03-11,55,-3,456,8,18,,"UK, United Kingdom",GB,United KingdomUnitedKingdom-20200311,,,,,,,,,,,,
 0,-,UK,United Kingdom,2020-03-12,55,-3,456,8,18,,"UK, United Kingdom",GB,United KingdomUnitedKingdom-20200312,,,,,,,,,,0,0,0
-0,-,-,Uruguay,2020-04-14,-32,-55,483,8,248,227,Uruguay,UY,Uruguay-43935.98125,,,,,,,,,,,,
-0,-,-,Uzbekistan,2020-04-14,41,64,1165,4,99,1062,Uzbekistan,UZ,Uzbekistan-43935.98125,,,,,,,,,,,,
-0,-,-,Venezuela,2020-04-14,6,-66,189,9,110,70,Venezuela,VE,Venezuela-43935.98125,,,,,,,,,,,,
+0,-,-,Uruguay,2020-04-14,-32,-55,483,8,248,227,Uruguay,UY,Uruguay-20200414,,,,,,,,,,,,
+0,-,-,Uzbekistan,2020-04-14,41,64,1165,4,99,1062,Uzbekistan,UZ,Uzbekistan-20200414,,,,,,,,,,,,
+0,-,-,Venezuela,2020-04-14,6,-66,189,9,110,70,Venezuela,VE,Venezuela-20200414,,,,,,,,,,,,
 0,-,-,Viet Nam,2020-01-23,,,2,0,0,0,Viet Nam,VN,Viet Nam--20200123,,,,,,,,,,0,0,0
 0,-,-,Viet Nam,2020-01-24,,,2,0,0,0,Viet Nam,VN,Viet Nam--20200124,,,,,,,,0,0,0,0,0
 0,-,-,Viet Nam,2020-01-25,,,2,0,0,0,Viet Nam,VN,Viet Nam--20200125,,,,,,,,,,0,0,0
@@ -8401,8 +8396,27 @@ FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRM
 0,-,-,Viet Nam,2020-03-10,16,108,31,0,16,,Viet Nam,VN,Viet Nam--20200310,,,,,,,,,,,,
 0,-,-,Viet Nam,2020-03-11,16,108,38,0,16,,Viet Nam,VN,Viet Nam--20200311,,,,,,,,,,7,0,0
 0,-,-,Viet Nam,2020-03-12,16,108,39,0,16,,Viet Nam,VN,Viet Nam--20200312,,,,,,,,,,1,0,0
-0,-,-,Viet Nam,2020-04-14,14,108,266,0,169,97,Viet Nam,VN,Vietnam-43935.98125,,,,,,,,,,,,
-0,-,-,Western Sahara,2020-04-14,24,-12,6,0,0,6,Western Sahara,EH,Western Sahara-43935.98125,,,,,,,,,,,,
-0,-,-,Yemen,2020-04-14,15,48,1,0,0,1,Yemen,YE,Yemen-43935.98125,,,,,,,,,,,,
-0,-,-,Zambia,2020-04-14,-13,27,45,2,30,13,Zambia,ZM,Zambia-43935.98125,,,,,,,,,,,,
-0,-,-,Zimbabwe,2020-04-14,-19,29,17,3,0,14,Zimbabwe,ZW,Zimbabwe-43935.98125,,,,,,,,,,,,
+0,-,-,Viet Nam,2020-04-14,14,108,266,0,169,97,Viet Nam,VN,Viet Nam--20200414,,,,,,,,,,,,
+0,-,-,Western Sahara,2020-04-14,24,-12,6,0,0,6,Western Sahara,EH,Western Sahara--20200414,,,,,,,,,,,,
+0,-,-,Yemen,2020-04-14,15,48,1,0,0,1,Yemen,YE,Yemen--20200414,,,,,,,,,,,,
+0,-,-,Zambia,2020-04-14,-13,27,45,2,30,13,Zambia,ZM,Zambia--20200414,,,,,,,,,,,,
+0,-,-,Zimbabwe,2020-04-14,-19,29,17,3,0,14,Zimbabwe,ZW,Zimbabwe--20200414,,,,,,,,,,,,
+0,-,-,Afghanistan,2020-03-06,,,1,0,0,,Afghanistan,AF,Afghanistan--20200306,,,,,,,,,,0,0,0
+0,-,Tasmania,Australia,2020-03-06,-41,145,1,0,0,,"Tasmania, Australia",AU,AustraliaTasmania-20200306,,,,,,,,,,0,0,0
+0,Calgary,Alberta,Canada,2020-03-08,51,-114,1,0,0,,"Calgary, Alberta, Canada",CA,CanadaAlbertaCalgary20200308,,,,,,,,,,0,0,0
+0,Calgary,Alberta,Canada,2020-03-09,51,-114,0,0,0,0,"Calgary, Alberta, Canada",CA,CanadaAlbertaCalgary20200309,,,,,,,,,,0,0,0
+0,Edmonton,Alberta,Canada,2020-03-09,53,-113,0,0,0,0,"Edmonton, Alberta, Canada",CA,CanadaAlbertaEdmonton20200309,,,,,,,,,,0,0,0
+0,Montreal,Quebec,Canada,2020-03-06,45,-73,2,0,0,,"Montreal, Quebec, Canada",CA,CanadaQuebecMontreal20200306,,,,,,,,,,0,0,0
+0,-,Hebei,China,2020-03-11,38,114,318,6,307,,"Hebei, China",CN,ChinaHebei-20200311,,,,,,,,,,0,0,0
+0,-,Tibet,China,2020-03-06,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200306,,,,,,,,,,0,0,0
+0,-,Tibet,China,2020-03-08,,,1,0,1,,"Tibet, China",CN,ChinaTibet-20200308,,,,,,,,,,0,0,0
+0,-,Yunnan,China,2020-03-08,24,101,174,2,170,,"Yunnan, China",CN,ChinaYunnan-20200308,,,,,,,,,,0,0,0
+0,-,-,Dominican Republic,3030-03-02,18,-70,1,0,0,0,Dominican Republic,DO,Dominican Republic--20200302,,,,,,,,,,0,0,0
+0,-,French Guiana,France,2020-03-12,3,-53,5,0,0,,"French Guiana, France",GF,FranceFrench Guiana-20200312,,,,,,,,,,0,0,0
+0,-,-,Hungary,2020-03-06,47,19,2,0,0,,Hungary,HU,Hungary--20200306,,,,,,,,,,0,0,0
+0,-,-,Kuwait,2020-03-06,29,47,58,0,0,,Kuwait,KW,Kuwait--20200306,,,,,,,,,,0,0,0
+0,-,-,Latvia,2020-03-06,56,24,1,0,0,,Latvia,LV,Latvia--20200306,,,,,,,,,,0,0,0
+0,-,-,Lebanon,2020-03-09,33,35,32,0,1,,Lebanon,LB,Lebanon--20200309,,,,,,,,,,0,0,0
+0,-,-,Liechtenstein,2020-03-06,47,9,1,0,0,,Liechtenstein,LI,Liechtenstein--20200306,,,,,,,,,,0,0,0
+0,-,-,Qatar,2020-03-06,25,51,8,0,0,,Qatar,QA,Qatar--20200306,,,,,,,,,,0,0,0
+0,-,North Ireland,United Kingdom,2020-02-29,,,0,0,0,0,"North Ireland, United Kingdom",GB,United KingdomNorth Ireland-20200229,,,,,,,,,,0,0,0
