@@ -16,3 +16,6 @@ preparedness for the next potential pandemic.
 Additionally, we collect unstructured historical data from www.worldometer.info and another sources, this data uploaded to IBM DB2 on Cloud. Using this RDBMS we can query data efficiently, we can monitored whats going on around the world day by day and drilled down
 to Country, Province/State (for several Coutries) and County (for US Only).
 
+End product of this application is COVID_19_HISTORICAL_RECORD, comparable to Health Care Medical Record with Countries, Provinces/Counties as it's patients.
+
+
