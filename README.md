@@ -18,4 +18,6 @@ to Country, Province/State (for several Coutries) and County (for US Only).
 
 End product of this application is COVID_19_HISTORICAL_RECORD, comparable to Health Care Medical Record with Countries, Provinces/Counties as it's patients.
 
+This file has been tested and running on IBM Watson using Cognos Dashboard Embedded, DB/2 on Cloud and Cloud Object Storage. Sample data from Weather Channel also use to complete this Covid-19 historical record.
+
 
