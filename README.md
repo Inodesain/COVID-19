@@ -13,11 +13,29 @@ We also analyze relation with Weather Condition and Population Data of the harde
 Hope this dataset will describe a global picture of what happened with "COVID-19 Pandemic" day to day and to assure our 
 preparedness for the next potential pandemic.
 
-Additionally, we collect unstructured historical data from www.worldometer.info and another sources, this data uploaded to IBM DB2 on Cloud. Using this RDBMS we can query data efficiently, we can monitored whats going on around the world day by day and drilled down
-to Country, Province/State (for several Coutries) and County (for US Only).
+Additionally, we collect unstructured historical data from World Health Organization (WHO) time line and situation report, www.worldometer.info and another sources, this data uploaded to IBM DB2 on Cloud. Using this RDBMS we can query data
+efficiently, we can monitored whats going on all around the world day by day and drilled down to Country, Province/State
+(for several Coutries) and County/Admin Region (for US and Canada).
 
 End product of this application is COVID_19_HISTORICAL_RECORD, comparable to Health Care Medical Record with Countries, Provinces/Counties as it's patients.
 
 This file has been tested and running on IBM Watson using Cognos Dashboard Embedded, DB/2 on Cloud and Cloud Object Storage. Sample data from Weather Channel also use to complete this Covid-19 historical record.
 
-
+=======
+Refined Items :
+- Standardize Country, Province/State and County/Administrative Area Naming, and add related GeoID :
+   - China, instead of Mainland China (GeoID : CN)
+   - United Kingdom, instead of UK (GeoID : GB)
+   - Hongkong (GeoID : HK)
+   - Macau (GeoID : MO)
+   - Taiwan, instead of Taiwan* (GeoID :TW)
+   - Vietnam, instead of Viet Nam (GeoID : VN)
+   - Korea,South instead of South Korea (GeoID : KR)
+   - Diamond Princess,Cruise Ship instead of Diamond Princess cruise ship, Others (no GeoID)
+   
+ - Country and Province/State : China and Australia
+ - Country, Province/State and County/Admin Region : US and Canada
+ - Country and external territories (using their own GeoID) : US, France, United Kingdom, Denmark and Netherland
+ - WHO Location : Geneva, Switzerland
+ - New Column TRANSFER IN and TRANSFER OUT to avoid double counting of patient on Cruise Ship
+ 
