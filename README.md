@@ -36,6 +36,6 @@ Refined Items :
  - Country and Province/State : China and Australia
  - Country, Province/State and County/Admin Region : US and Canada
  - Country and external territories (using their own GeoID) : US, France, United Kingdom, Denmark and Netherland
- - WHO Location : Geneva, Switzerland
+ - WHO Location : Geneva, Switzerland change to Geneva, .WHO (with same GeoID - CH) to ensure WHO on the top list 
  - New Column TRANSFER IN and TRANSFER OUT to avoid double counting of patient on Cruise Ship
  
