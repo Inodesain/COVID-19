@@ -40,3 +40,4 @@ Refined Items :
  - WHO Location : Geneva, Switzerland change to Geneva, .WHO (with same GeoID - CH) to ensure WHO on the top list 
  - New Column TRANSFER IN and TRANSFER OUT to avoid double counting of patient on Cruise Ship
  
+- Data from World Health Organization (WHO) - Event as they happened included (up to March 5th, 2020)
