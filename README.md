@@ -13,8 +13,9 @@ We also analyze relation with Weather Condition and Population Data of the harde
 Hope this dataset will describe a global picture of what happened with "COVID-19 Pandemic" day to day and to assure our 
 preparedness for the next potential pandemic.
 
-Additionally, we collect unstructured historical data from World Health Organization (WHO) time line and situation report, www.worldometer.info and another sources, this data uploaded to IBM DB2 on Cloud. Using this RDBMS we can query data
-efficiently, we can monitored whats going on all around the world day by day and drilled down to Country, Province/State
+Additionally, we collect unstructured historical data from World Health Organization (WHO) time line, situation report and event
+as they happened, www.worldometer.info and another sources, this data uploaded to IBM DB2 on Cloud. Using this RDBMS we can query
+data efficiently, we can monitored whats going on all around the world day by day and drilled down to Country, Province/State
 (for several Coutries) and County/Admin Region (for US and Canada).
 
 End product of this application is COVID_19_HISTORICAL_RECORD, comparable to Health Care Medical Record with Countries, Provinces/Counties as it's patients.
