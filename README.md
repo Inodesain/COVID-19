@@ -22,6 +22,10 @@ End product of this application is COVID_19_HISTORICAL_RECORD, comparable to Hea
 
 This file has been tested and running on IBM Watson using Cognos Dashboard Embedded, DB/2 on Cloud and Cloud Object Storage. Sample data from Weather Channel also use to complete this Covid-19 historical record.
 
+We have been uploaded this file to OpenERP/Odoo Studio and analyze it with their Pivot View and Calendar. (Sample form attached in JPG file). OpenERP/Odoo can be run on IBM Cloud ( https://cloud.ibm.com/catalog/content/odoo )
+
+
+
 =======
 Refined Items :
 - Standardize Country, Province/State and County/Administrative Area Naming, and add related GeoID :
@@ -43,5 +47,4 @@ Refined Items :
 - Data from World Health Organization (WHO) - Event as they happened included (up to March 5th, 2020)
 - Data from Johns Hopkins University, refined (up to March 23th, 2020) 
 
-We have been uploaded this file to OpenERP/Odoo Studio and analyze it with their Pivot View. (Sample form attached in JPG file)
 
