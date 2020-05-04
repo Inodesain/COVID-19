@@ -42,3 +42,6 @@ Refined Items :
  
 - Data from World Health Organization (WHO) - Event as they happened included (up to March 5th, 2020)
 - Data from Johns Hopkins University, refined (up to March 23th, 2020) 
+
+We have been uploaded this file to OpenERP/Odoo Studio and analyze it with their Pivot View. (Sample form attached in JPG file)
+
