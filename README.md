@@ -46,6 +46,6 @@ Refined Items :
  - New Column TRANSFER IN and TRANSFER OUT to avoid double counting of patient on Cruise Ship
  
 - Data from World Health Organization (WHO) - Event as they happened included (up to March 15th, 2020)
-- Data from Johns Hopkins University, refined (up to March 31st, 2020) 
+- Data from Johns Hopkins University, refined (up to April 2nd, 2020) 
 
 
