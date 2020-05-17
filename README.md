@@ -20,7 +20,7 @@ data efficiently, we can monitored whats going on all around the world day by da
 
 End product of this application is COVID_19_HISTORICAL_RECORD, comparable to Health Care Medical Record with Countries, Provinces/Counties as it's patients.
 
-This file has been tested and running on IBM Watson using Cognos Dashboard Embedded, DB/2 on Cloud and Cloud Object Storage. Sample data from Weather Channel also use to complete this Covid-19 historical record.
+This file has been tested and running on IBM Watson using Cognos Dashboard Embedded, DB/2 on Cloud, Jupyter Notebook and Cloud Object Storage. Sample data from Weather Channel also use to complete this Covid-19 historical record.
 
 We have been uploaded this file to OpenERP/Odoo Studio and analyze it with their Pivot View and Calendar. (Sample form attached in JPG file). OpenERP/Odoo can be run on IBM Cloud ( https://cloud.ibm.com/catalog/content/odoo )
 
@@ -48,4 +48,5 @@ Refined Items :
 - Data from World Health Organization (WHO) - Event as they happened included (up to March 31st, 2020)
 - Data from Johns Hopkins University, refined (up to April 2nd, 2020) 
 
-
+Start analyze data using Jupyter Notebook
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/0c822619-7f0d-40c9-8e03-0309b1484ffd/view?access_token=7d00ed66da6c798db0e89b7df55f800d5ca3793a9d5d7e4387cb6a260f5f5df7
