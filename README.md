@@ -49,5 +49,6 @@ Refined Items :
 - Data from Johns Hopkins University, refined (up to April 2nd, 2020) 
 
 Start analyze data using Jupyter Notebook
-https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/89b542fc-cbca-4b18-bc3b-4d2681a89dd7/view?access_token=87931e9186f51031ab09fe6840d7f80c85ed5df9a3f8d552b03fa42007711c91
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/451952ba-05df-40d2-8cc3-30256c1b1184/view?access_token=70f746eba4374969515c6dbde376722ff486e173cf6ef3e14a20c2ee3b5f39a1
 
