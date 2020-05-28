@@ -52,7 +52,7 @@ Start analyze data using Jupyter Notebook
 
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/451952ba-05df-40d2-8cc3-30256c1b1184/view?access_token=70f746eba4374969515c6dbde376722ff486e173cf6ef3e14a20c2ee3b5f39a1
 
-United States Daily Report (with States Plot)
+United States Daily Report (with States Plot) and Weather Analysis for selected locations in New York State
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/2e444d14-2cc6-497e-9568-bbaeefc205fb/view?access_token=6ed9697cea1194e3b7154d148791ca3114a40b3c6edc06fcbbfe3ad37a4a190e
 
 Using Dash and Python (Covid_19.py) to display selected countries.
