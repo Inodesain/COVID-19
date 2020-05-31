@@ -55,6 +55,10 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/451952ba-05df-40d2-8cc
 United States Daily Report (with States Plot) and Weather Analysis for selected locations in New York State
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/2e444d14-2cc6-497e-9568-bbaeefc205fb/view?access_token=6ed9697cea1194e3b7154d148791ca3114a40b3c6edc06fcbbfe3ad37a4a190e
 
+Cognos Dashboard
+https://dataplatform.cloud.ibm.com/dashboards/8979257c-ec45-4668-8870-6e319b147e49/view/7d66b87b1bb53fc162cef6e4079e2c502961240eb4bb8a52d6d67b490c612397a93f1692c82d430fda450367f4ef47509a
+
 Using Dash and Python (Covid_19.py) to display selected countries.
+
 
 
