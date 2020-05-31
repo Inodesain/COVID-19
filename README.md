@@ -57,6 +57,7 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/2e444d14-2cc6-497e-956
 
 Cognos Dashboard
 https://dataplatform.cloud.ibm.com/dashboards/8979257c-ec45-4668-8870-6e319b147e49/view/7d66b87b1bb53fc162cef6e4079e2c502961240eb4bb8a52d6d67b490c612397a93f1692c82d430fda450367f4ef47509a
+UID=rbw33121;PWD=pwz-4fh19274c1w9 (Db2 on Cloud)
 
 Using Dash and Python (Covid_19.py) to display selected countries.
 
