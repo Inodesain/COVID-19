@@ -1,59 +1,59 @@
-FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRMED,DEATHS,RECOVERED,ACTIVE,COMBINED_KEY,GEOID,RECORD_KEY
-0,-,Hubei, China,2020-01-30,,,4903,162,90,,"Hubei,  China",CN, ChinaHubei-43860.6666666667
-0,-,Zhejiang, China,2020-01-30,,,428,,4,,"Zhejiang,  China",CN, ChinaZhejiang-43860.6666666667
-0,-,Guangdong, China,2020-01-30,,,354,,10,,"Guangdong,  China",CN, ChinaGuangdong-43860.6666666667
-0,-,Henan, China,2020-01-30,,,278,2,2,,"Henan,  China",CN, ChinaHenan-43860.6666666667
-0,-,Hunan, China,2020-01-30,,,277,,2,,"Hunan,  China",CN, ChinaHunan-43860.6666666667
-0,-,Anhui, China,2020-01-30,,,200,,2,,"Anhui,  China",CN, ChinaAnhui-43860.6666666667
-0,-,Chongqing, China,2020-01-30,,,182,,1,,"Chongqing,  China",CN, ChinaChongqing-43860.6666666667
-0,-,Jiangxi, China,2020-01-30,,,162,,5,,"Jiangxi,  China",CN, ChinaJiangxi-43860.6666666667
-0,-,Shandong, China,2020-01-30,,,158,,1,,"Shandong,  China",CN, ChinaShandong-43860.6666666667
-0,-,Sichuan, China,2020-01-30,,,142,1,1,,"Sichuan,  China",CN, ChinaSichuan-43860.6666666667
-0,-,Jiangsu, China,2020-01-30,,,129,,1,,"Jiangsu,  China",CN, ChinaJiangsu-43860.6666666667
-0,-,Beijing, China,2020-01-30,,,114,1,4,,"Beijing,  China",CN, ChinaBeijing-43860.6666666667
-0,-,Shanghai, China,2020-01-30,,,112,1,5,,"Shanghai,  China",CN, ChinaShanghai-43860.6666666667
-0,-,Fujian, China,2020-01-30,,,101,,,,"Fujian,  China",CN, ChinaFujian-43860.6666666667
-0,-,Guangxi, China,2020-01-30,,,78,,2,,"Guangxi,  China",CN, ChinaGuangxi-43860.6666666667
-0,-,Yunnan, China,2020-01-30,,,70,,,,"Yunnan,  China",CN, ChinaYunnan-43860.6666666667
-0,-,Hebei, China,2020-01-30,,,65,1,,,"Hebei,  China",CN, ChinaHebei-43860.6666666667
-0,-,Shaanxi, China,2020-01-30,,,63,,,,"Shaanxi,  China",CN, ChinaShaanxi-43860.6666666667
-0,-,Hainan, China,2020-01-30,,,46,1,1,,"Hainan,  China",CN, ChinaHainan-43860.6666666667
-0,-,Heilongjiang, China,2020-01-30,,,44,2,,,"Heilongjiang,  China",CN, ChinaHeilongjiang-43860.6666666667
-0,-,Liaoning, China,2020-01-30,,,41,,1,,"Liaoning,  China",CN, ChinaLiaoning-43860.6666666667
-0,-,Shanxi, China,2020-01-30,,,35,,1,,"Shanxi,  China",CN, ChinaShanxi-43860.6666666667
-0,-,Tianjin, China,2020-01-30,,,31,,,,"Tianjin,  China",CN, ChinaTianjin-43860.6666666667
-0,-,Gansu, China,2020-01-30,,,26,,,,"Gansu,  China",CN, ChinaGansu-43860.6666666667
-0,-,Inner Mongolia, China,2020-01-30,,,19,,,,"Inner Mongolia,  China",CN, ChinaInner Mongolia-43860.6666666667
-0,-,Ningxia, China,2020-01-30,,,17,,,,"Ningxia,  China",CN, ChinaNingxia-43860.6666666667
-0,-,Jilin, China,2020-01-30,,,14,,1,,"Jilin,  China",CN, ChinaJilin-43860.6666666667
-0,-,Xinjiang, China,2020-01-30,,,14,,,,"Xinjiang,  China",CN, ChinaXinjiang-43860.6666666667
-0,-,Guizhou, China,2020-01-30,,,12,,1,,"Guizhou,  China",CN, ChinaGuizhou-43860.6666666667
-0,-,Hong Kong,Hong Kong,2020-01-30,,,10,,,,"Hong Kong, Hong Kong",HK,Hong KongHong Kong-43860.6666666667
-0,-,Taiwan,Taiwan,2020-01-30,,,9,,,,"Taiwan, Taiwan",TW,TaiwanTaiwan-43860.6666666667
-0,-,Qinghai, China,2020-01-30,,,8,,,,"Qinghai,  China",CN, ChinaQinghai-43860.6666666667
-0,-,Macau,Macau,2020-01-30,,,7,,,,"Macau, Macau",MO,MacauMacau-43860.6666666667
-0,-,Tibet, China,2020-01-30,,,1,,,,"Tibet,  China",CN, ChinaTibet-43860.6666666667
-0,-,Washington,US,2020-01-30,,,1,,,,"Washington, US",US,USWashington-43860.6666666667
-0,-,Illinois,US,2020-01-30,,,1,,,,"Illinois, US",US,USIllinois-43860.6666666667
-0,-,California,US,2020-01-30,,,2,,,,"California, US",US,USCalifornia-43860.6666666667
-0,-,Arizona,US,2020-01-30,,,1,,,,"Arizona, US",US,USArizona-43860.6666666667
-0,-,,Japan,2020-01-30,,,11,,1,,Japan,JP,Japan-43860.6666666667
-0,-,,Thailand,2020-01-30,,,14,,5,,Thailand,TH,Thailand-43860.6666666667
-0,-,,South Korea,2020-01-30,,,4,,,,South Korea,KR,South Korea-43860.6666666667
-0,-,,Singapore,2020-01-30,,,10,,,,Singapore,SG,Singapore-43860.6666666667
-0,-,,Vietnam,2020-01-30,,,2,,,,Vietnam,VN,Vietnam-43860.6666666667
-0,-,,France,2020-01-30,,,5,,,,France,FR,France-43860.6666666667
-0,-,,Nepal,2020-01-30,,,1,,,,Nepal,NP,Nepal-43860.6666666667
-0,-,,Malaysia,2020-01-30,,,8,,,,Malaysia,MY,Malaysia-43860.6666666667
-0,-,Ontario,Canada,2020-01-30,,,2,,,,"Ontario, Canada",CA,CanadaOntario-43860.6666666667
-0,-,British Columbia,Canada,2020-01-30,,,1,,,,"British Columbia, Canada",CA,CanadaBritish Columbia-43860.6666666667
-0,-,,Cambodia,2020-01-30,,,1,,,,Cambodia,KH,Cambodia-43860.6666666667
-0,-,,Sri Lanka,2020-01-30,,,1,,,,Sri Lanka,LK,Sri Lanka-43860.6666666667
-0,-,New South Wales,Australia,2020-01-30,,,4,,2,,"New South Wales, Australia",AU,AustraliaNew South Wales-43860.6666666667
-0,-,Victoria,Australia,2020-01-30,,,2,,,,"Victoria, Australia",AU,AustraliaVictoria-43860.6666666667
-0,-,Queensland,Australia,2020-01-30,,,3,,,,"Queensland, Australia",AU,AustraliaQueensland-43860.6666666667
-0,-,Bavaria,Germany,2020-01-30,,,4,,,,"Bavaria, Germany",DE,GermanyBavaria-43860.6666666667
-0,-,,Finland,2020-01-30,,,1,,,,Finland,FI,Finland-43860.6666666667
-0,-,,United Arab Emirates,2020-01-30,,,4,,,,United Arab Emirates,AE,United Arab Emirates-43860.6666666667
-0,-,,Philippines,2020-01-30,,,1,,,,Philippines,PH,Philippines-43860.6666666667
-0,-,,India,2020-01-30,,,1,,,,India,IN,India-43860.6666666667
+FIPS,ADMIN2,PROVINCE_STATE,COUNTRY_REGION,LAST_UPDATE,LATITUDE,LONGITUDE,CONFIRMED,DEATHS,RECOVERED,ACTIVE,COMBINED_KEY,GEOID,RECORD_KEY,TRANSFER_IN,TRANSFER_OUT
+0,-,New South Wales,Australia,2020-01-30,,,4,,2,,"New South Wales, Australia",AU,AustraliaNew South Wales-43860.6666666667,,
+0,-,Queensland,Australia,2020-01-30,,,3,,,,"Queensland, Australia",AU,AustraliaQueensland-43860.6666666667,,
+0,-,Victoria,Australia,2020-01-30,,,2,,,,"Victoria, Australia",AU,AustraliaVictoria-43860.6666666667,,
+0,-,Cambodia,Cambodia,2020-01-30,,,1,,,,Cambodia,KH,CambodiaCambodia-43860.6666666667,,
+0,-,British Columbia,Canada,2020-01-30,,,1,,,,"British Columbia, Canada",CA,CanadaBritish Columbia-43860.6666666667,,
+0,-,Ontario,Canada,2020-01-30,,,2,,,,"Ontario, Canada",CA,CanadaOntario-43860.6666666667,,
+0,-,Anhui,China,2020-01-30,,,200,,2,,"Anhui, China",CN,ChinaAnhui-43860.6666666667,,
+0,-,Beijing,China,2020-01-30,,,114,1,4,,"Beijing, China",CN,ChinaBeijing-43860.6666666667,,
+0,-,Chongqing,China,2020-01-30,,,182,,1,,"Chongqing, China",CN,ChinaChongqing-43860.6666666667,,
+0,-,Fujian,China,2020-01-30,,,101,,,,"Fujian, China",CN,ChinaFujian-43860.6666666667,,
+0,-,Gansu,China,2020-01-30,,,26,,,,"Gansu, China",CN,ChinaGansu-43860.6666666667,,
+0,-,Guangdong,China,2020-01-30,,,354,,10,,"Guangdong, China",CN,ChinaGuangdong-43860.6666666667,,
+0,-,Guangxi,China,2020-01-30,,,78,,2,,"Guangxi, China",CN,ChinaGuangxi-43860.6666666667,,
+0,-,Guizhou,China,2020-01-30,,,12,,1,,"Guizhou, China",CN,ChinaGuizhou-43860.6666666667,,
+0,-,Hainan,China,2020-01-30,,,46,1,1,,"Hainan, China",CN,ChinaHainan-43860.6666666667,,
+0,-,Hebei,China,2020-01-30,,,65,1,,,"Hebei, China",CN,ChinaHebei-43860.6666666667,,
+0,-,Heilongjiang,China,2020-01-30,,,44,2,,,"Heilongjiang, China",CN,ChinaHeilongjiang-43860.6666666667,,
+0,-,Henan,China,2020-01-30,,,278,2,2,,"Henan, China",CN,ChinaHenan-43860.6666666667,,
+0,-,Hubei,China,2020-01-30,,,4903,162,90,,"Hubei, China",CN,ChinaHubei-43860.6666666667,,
+0,-,Hunan,China,2020-01-30,,,277,,2,,"Hunan, China",CN,ChinaHunan-43860.6666666667,,
+0,-,Inner Mongolia,China,2020-01-30,,,19,,,,"Inner Mongolia, China",CN,ChinaInner Mongolia-43860.6666666667,,
+0,-,Jiangsu,China,2020-01-30,,,129,,1,,"Jiangsu, China",CN,ChinaJiangsu-43860.6666666667,,
+0,-,Jiangxi,China,2020-01-30,,,162,,5,,"Jiangxi, China",CN,ChinaJiangxi-43860.6666666667,,
+0,-,Jilin,China,2020-01-30,,,14,,1,,"Jilin, China",CN,ChinaJilin-43860.6666666667,,
+0,-,Liaoning,China,2020-01-30,,,41,,1,,"Liaoning, China",CN,ChinaLiaoning-43860.6666666667,,
+0,-,Ningxia,China,2020-01-30,,,17,,,,"Ningxia, China",CN,ChinaNingxia-43860.6666666667,,
+0,-,Qinghai,China,2020-01-30,,,8,,,,"Qinghai, China",CN,ChinaQinghai-43860.6666666667,,
+0,-,Shaanxi,China,2020-01-30,,,63,,,,"Shaanxi, China",CN,ChinaShaanxi-43860.6666666667,,
+0,-,Shandong,China,2020-01-30,,,158,,1,,"Shandong, China",CN,ChinaShandong-43860.6666666667,,
+0,-,Shanghai,China,2020-01-30,,,112,1,5,,"Shanghai, China",CN,ChinaShanghai-43860.6666666667,,
+0,-,Shanxi,China,2020-01-30,,,35,,1,,"Shanxi, China",CN,ChinaShanxi-43860.6666666667,,
+0,-,Sichuan,China,2020-01-30,,,142,1,1,,"Sichuan, China",CN,ChinaSichuan-43860.6666666667,,
+0,-,Tianjin,China,2020-01-30,,,31,,,,"Tianjin, China",CN,ChinaTianjin-43860.6666666667,,
+0,-,Tibet,China,2020-01-30,,,1,,,,"Tibet, China",CN,ChinaTibet-43860.6666666667,,
+0,-,Xinjiang,China,2020-01-30,,,14,,,,"Xinjiang, China",CN,ChinaXinjiang-43860.6666666667,,
+0,-,Yunnan,China,2020-01-30,,,70,,,,"Yunnan, China",CN,ChinaYunnan-43860.6666666667,,
+0,-,Zhejiang,China,2020-01-30,,,428,,4,,"Zhejiang, China",CN,ChinaZhejiang-43860.6666666667,,
+0,-,Finland,Finland,2020-01-30,,,1,,,,Finland,FI,FinlandFinland-43860.6666666667,,
+0,-,France,France,2020-01-30,,,5,,,,France,FR,FranceFrance-43860.6666666667,,
+0,-,Bavaria,Germany,2020-01-30,,,4,,,,"Bavaria, Germany",DE,GermanyBavaria-43860.6666666667,,
+0,-,Hong Kong,China,2020-01-30,,,10,,,,"Hong Kong, China",HK,ChinaHong Kong-43860.6666666667,,
+0,-,India,India,2020-01-30,,,1,,,,India,IN,IndiaIndia-43860.6666666667,,
+0,-,Japan,Japan,2020-01-30,,,11,,1,,Japan,JP,JapanJapan-43860.6666666667,,
+0,-,Macau,China,2020-01-30,,,7,,,,"Macau, China",MO,ChinaMacau-43860.6666666667,,
+0,-,Malaysia,Malaysia,2020-01-30,,,8,,,,Malaysia,MY,MalaysiaMalaysia-43860.6666666667,,
+0,-,Nepal,Nepal,2020-01-30,,,1,,,,Nepal,NP,NepalNepal-43860.6666666667,,
+0,-,Philippines,Philippines,2020-01-30,,,1,,,,Philippines,PH,PhilippinesPhilippines-43860.6666666667,,
+0,-,Singapore,Singapore,2020-01-30,,,10,,,,Singapore,SG,SingaporeSingapore-43860.6666666667,,
+0,-,"Korea, South","Korea, South",2020-01-30,,,4,,,,"Korea, South",KR,"Korea, SouthKorea, South-43860.6666666667",,
+0,-,Sri Lanka,Sri Lanka,2020-01-30,,,1,,,,Sri Lanka,LK,Sri LankaSri Lanka-43860.6666666667,,
+0,-,Taiwan,Taiwan,2020-01-30,,,9,,,,Taiwan,TW,TaiwanTaiwan-43860.6666666667,,
+0,-,Thailand,Thailand,2020-01-30,,,14,,5,,Thailand,TH,ThailandThailand-43860.6666666667,,
+0,-,Arizona,US,2020-01-30,,,1,,,,"Arizona, US",US,USArizona-43860.6666666667,,
+0,-,California,US,2020-01-30,,,2,,,,"California, US",US,USCalifornia-43860.6666666667,,
+0,-,Illinois,US,2020-01-30,,,1,,,,"Illinois, US",US,USIllinois-43860.6666666667,,
+0,-,Washington,US,2020-01-30,,,1,,,,"Washington, US",US,USWashington-43860.6666666667,,
+0,-,United Arab Emirates,United Arab Emirates,2020-01-30,,,4,,,,United Arab Emirates,AE,United Arab EmiratesUnited Arab Emirates-43860.6666666667,,
+0,-,Vietnam,Vietnam,2020-01-30,,,2,,,,Vietnam,VN,VietnamVietnam-43860.6666666667,,
